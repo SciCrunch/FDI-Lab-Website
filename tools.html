@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tools &amp; Services — FDI Lab</title>
+  <meta name="description" content="Software tools, ontologies, portals, and services developed and maintained by the FAIR Data Informatics Lab at UC San Diego.">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .tool-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.25rem;
+      margin-top: 2rem;
+    }
+
+    .tool-card {
+      background: var(--white);
+      border-radius: 8px;
+      padding: 1.4rem 1.5rem;
+      border: 1px solid var(--gray-mid);
+      border-top: 4px solid var(--accent);
+      box-shadow: 0 2px 10px rgba(18,46,94,0.07);
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+
+    .tool-card h3 {
+      font-size: 1.1rem;
+      margin: 0;
+    }
+
+    .tool-card .tool-type {
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .tool-card p {
+      font-size: 0.9rem;
+      color: var(--gray-text);
+      margin: 0;
+      flex: 1;
+    }
+
+    .tool-links {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-top: 0.5rem;
+    }
+
+    .tool-links a {
+      font-size: 0.85rem;
+      font-weight: 700;
+    }
+
+    .rrid-badge {
+      font-size: 0.75rem;
+      font-family: monospace;
+      background: var(--accent-light);
+      color: var(--navy);
+      padding: 0.15rem 0.45rem;
+      border-radius: 4px;
+    }
+
+    .section-label {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--navy);
+      border-bottom: 2px solid var(--gray-mid);
+      padding-bottom: 0.4rem;
+      margin: 3rem 0 0;
+    }
+
+    @media (max-width: 640px) {
+      .tool-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <img src="images/site/fdi-logo-white.png" alt="FDI Lab" style="height:36px; object-fit:contain;">
+      </a>
+      <button class="nav-toggle" onclick="document.querySelector('nav').classList.toggle('open')" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="team.html">Team</a>
+        <a href="projects.html">Projects</a>
+        <a href="tools.html" class="active">Tools &amp; Services</a>
+        <a href="funding.html">Funding</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-hero">
+    <div class="container">
+      <h1>Tools &amp; Services</h1>
+      <p>Software platforms, ontologies, registries, and services developed and maintained by FDI Lab.</p>
+    </div>
+  </div>
+
+  <section>
+    <div class="container">
+
+      <h3 class="section-label">Platforms &amp; Portals</h3>
+      <div class="tool-grid">
+
+        <div class="tool-card">
+          <div class="tool-type">Community Portal</div>
+          <h3>SciCrunch</h3>
+          <p>Community portal for researchers providing information on common sources of data and Research Resource Identifiers (RRIDs). Enables searching, creation, and discovery of research resources across multiple domains.</p>
+          <div class="tool-links">
+            <a href="https://scicrunch.org/" target="_blank" rel="noopener">Visit &rarr;</a>
+            <span class="rrid-badge">RRID: SCR_003115</span>
+          </div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">Resource Registry</div>
+          <h3>SciCrunch Resource Registry</h3>
+          <p>Interactive portal for finding and submitting biomedical resources. Resources receive RRIDs for citation in scientific manuscripts, making them findable and citable across the literature.</p>
+          <div class="tool-links">
+            <a href="https://scicrunch.org/scicrunch/about/sources/nlx_144509-1" target="_blank" rel="noopener">Visit &rarr;</a>
+            <span class="rrid-badge">RRID: SCR_005400</span>
+          </div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">Identifier System</div>
+          <h3>RRIDs Portal</h3>
+          <p>Central location for persistent, unique Research Resource Identifiers (RRIDs) for antibodies, model organisms, cell lines, and tools — supporting the Resource Identification Initiative across 800+ biomedical journals.</p>
+          <div class="tool-links">
+            <a href="https://scicrunch.org/resources" target="_blank" rel="noopener">Visit &rarr;</a>
+            <span class="rrid-badge">RRID: SCR_004098</span>
+          </div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">Antibody Resource</div>
+          <h3>Antibody Registry</h3>
+          <p>Specialized registry for antibody resources within the biomedical research ecosystem. Enables researchers to locate, identify, and cite specific antibody reagents with persistent identifiers.</p>
+          <div class="tool-links">
+            <a href="http://antibodyregistry.org/" target="_blank" rel="noopener">Visit &rarr;</a>
+            <span class="rrid-badge">RRID: SCR_006397</span>
+          </div>
+        </div>
+
+      </div>
+
+      <h3 class="section-label">Ontologies &amp; Terminology</h3>
+      <div class="tool-grid">
+
+        <div class="tool-card">
+          <div class="tool-type">Biomedical Lexicon</div>
+          <h3>InterLex</h3>
+          <p>A dynamic lexicon of biomedical terms providing a federated ontology layer and inter-lexical mappings. Built on the NeuroLex foundation, it enables consistent terminology across biomedical databases and tools.</p>
+          <div class="tool-links">
+            <a href="http://interlex.org" target="_blank" rel="noopener">Visit &rarr;</a>
+            <span class="rrid-badge">RRID: SCR_016178</span>
+          </div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">Neuroscience Ontology</div>
+          <h3>NIF Ontology</h3>
+          <p>NIFSTD maintains an extensive set of terms and concepts important for the domains of neuroscience and biology. The ontology underpins resource discovery and data integration across the NIF ecosystem.</p>
+          <div class="tool-links">
+            <a href="https://github.com/SciCrunch/NIF-Ontology" target="_blank" rel="noopener">GitHub &rarr;</a>
+            <span class="rrid-badge">RRID: SCR_005414</span>
+          </div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">Neuron Phenotype Ontology</div>
+          <h3>Neuron Phenotype Ontology</h3>
+          <p>An ontology for describing the complex phenotypes of neurons, enabling consistent classification and comparison of neuronal cell types across datasets and research communities.</p>
+          <div class="tool-links">
+            <span class="rrid-badge">RRID: SCR_017403</span>
+          </div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">Resolution Service</div>
+          <h3>Resolver</h3>
+          <p>Resolution service supporting NIFSTD ontology term and concept lookup. Provides stable, resolvable URIs for ontology terms used across the NIF and SciCrunch infrastructure.</p>
+          <div class="tool-links">
+            <a href="https://scicrunch.org/resolver" target="_blank" rel="noopener">Visit &rarr;</a>
+          </div>
+        </div>
+
+      </div>
+
+      <h3 class="section-label">Software &amp; APIs</h3>
+      <div class="tool-grid">
+
+        <div class="tool-card">
+          <div class="tool-type">Ontology Web Services</div>
+          <h3>SciGraph</h3>
+          <p>A turnkey solution for ontology web services that converts OWL ontologies into Neo4j graphs, providing API endpoints for autocomplete, terminology lookup, and graph traversal. Open source on GitHub.</p>
+          <div class="tool-links">
+            <a href="https://github.com/SciCrunch/SciGraph" target="_blank" rel="noopener">GitHub &rarr;</a>
+            <span class="rrid-badge">RRID: SCR_017576</span>
+          </div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">Information Integration</div>
+          <h3>DISCO</h3>
+          <p>An information integration approach designed to facilitate interoperation among Internet resources through harvesting and updating. DISCO enables federated search across heterogeneous biomedical data sources.</p>
+          <div class="tool-links">
+            <span class="rrid-badge">RRID: SCR_004586</span>
+          </div>
+        </div>
+
+      </div>
+
+      <h3 class="section-label">Analytics &amp; Reporting</h3>
+      <div class="tool-grid">
+
+        <div class="tool-card">
+          <div class="tool-type">dkNET Service</div>
+          <h3>Resource Reports</h3>
+          <p>Provides a detailed overview of individual research resources including citation metrics, community feedback, and co-usage information. Helps researchers assess the impact and reliability of specific resources.</p>
+          <div class="tool-links">
+            <span class="rrid-badge">RRID: SCR_019227</span>
+          </div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">dkNET Compliance Tool</div>
+          <h3>Authentication Reports</h3>
+          <p>An automated tool to enable researchers to create customized reports for NIH Submission Policy compliance regarding cell line and antibody authentication requirements.</p>
+          <div class="tool-links">
+            <span class="rrid-badge">RRID: SCR_019226</span>
+          </div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">Analytics Platform</div>
+          <h3>Resource Information Network</h3>
+          <p>An integrated dataset and analytics platform combining Research Resource Identifiers (RRIDs), text mining, and data aggregation to provide insight into resource usage across the biomedical literature.</p>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">Validation Knowledgebase</div>
+          <h3>Resource Watch</h3>
+          <p>Stores validation and problematic information about research resources, enabling researchers to submit F.A.I.R. claims and alert the community to issues with specific reagents or tools.</p>
+          <div class="tool-links">
+            <a href="https://scicrunch.org/ResourceWatch" target="_blank" rel="noopener">Visit &rarr;</a>
+            <span class="rrid-badge">RRID: SCR_021761</span>
+          </div>
+        </div>
+
+        <div class="tool-card">
+          <div class="tool-type">Text Mining Alert System</div>
+          <h3>Antibody Watch</h3>
+          <p>Automatically alerts researchers about problematic antibodies using deep neural networks to extract specificity statements from scientific literature, helping prevent the use of unreliable reagents.</p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-links">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="team.html">Team</a>
+        <a href="projects.html">Projects</a>
+        <a href="tools.html">Tools &amp; Services</a>
+        <a href="funding.html">Funding</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <p>&copy; <span id="yr"></span> FAIR Data Informatics Lab &bull; UC San Diego</p>
+    </div>
+  </footer>
+
+  <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
+</body>
+</html>
