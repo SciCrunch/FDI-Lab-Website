@@ -1,0 +1,13 @@
+# GitHub Pages configuration
+title: FDI Lab
+description: FAIR Data Informatics Lab at UC San Diego
+url: ""
+baseurl: ""
+
+# Build settings
+theme: null   # using custom HTML/CSS, no Jekyll theme needed
+
+# Exclude development files from build
+exclude:
+  - README.md
+  - "*.sh"

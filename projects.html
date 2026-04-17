@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projects — FDI Lab</title>
+  <meta name="description" content="FDI Lab's active research projects spanning brain mapping, FAIR data portals, reproducibility, and biomedical resource identification.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .project-card {
+      background: var(--white);
+      border-radius: 8px;
+      padding: 1.75rem;
+      border: 1px solid var(--gray-mid);
+      border-left: 5px solid var(--accent);
+      box-shadow: 0 2px 10px rgba(18,46,94,0.07);
+      margin-bottom: 1.5rem;
+    }
+    .project-card h3 {
+      font-size: 1.3rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.5rem;
+    }
+    .project-tag {
+      font-size: 0.75rem;
+      background: var(--accent-light);
+      color: var(--navy);
+      border-radius: 4px;
+      padding: 0.15rem 0.5rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .project-card p { color: var(--gray-text); margin-bottom: 0.6rem; }
+    .project-card a { font-size: 0.9rem; font-weight: 700; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <span class="logo-badge">FDI</span>
+        <span>Lab</span>
+      </a>
+      <button class="nav-toggle" onclick="document.querySelector('nav').classList.toggle('open')" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="team.html">Team</a>
+        <a href="projects.html" class="active">Projects</a>
+        <a href="funding.html">Funding</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-hero">
+    <div class="container">
+      <h1>Projects</h1>
+      <p>We partner with national and international initiatives to build open data infrastructure across biomedical research.</p>
+    </div>
+  </div>
+
+  <section>
+    <div class="container">
+
+      <div class="project-card" id="bican">
+        <h3>BICAN <span class="project-tag">Brain Atlas</span></h3>
+        <p>
+          The Brain Initiative Cell Atlas Network (BICAN) aims to create a comprehensive
+          cellular atlas of the mammalian brain, including humans, non-human primates, and
+          model organisms. FDI Lab contributes data infrastructure and FAIR standards support.
+        </p>
+        <a href="https://braininitiative.nih.gov/brain-programs/cell-census-and-atlas-development" target="_blank" rel="noopener">Learn more &rarr;</a>
+      </div>
+
+      <div class="project-card" id="dknet">
+        <h3>dkNET <span class="project-tag">Data Portal</span></h3>
+        <p>
+          dkNET is a data and resource-sharing network for the digestive, kidney, and
+          diabetes research communities. It provides a portal for discovering datasets,
+          tools, and resources to advance NIDDK mission research.
+        </p>
+        <a href="https://dknet.org" target="_blank" rel="noopener">Visit dkNET &rarr;</a>
+      </div>
+
+      <div class="project-card" id="sparc">
+        <h3>SPARC <span class="project-tag">Autonomic Nervous System</span></h3>
+        <p>
+          The Stimulating Peripheral Activity to Relieve Conditions (SPARC) program maps
+          the autonomic nervous system to enable development of next-generation neuromodulation
+          devices. FDI Lab supports FAIR data infrastructure and portal development for the
+          SPARC data ecosystem.
+        </p>
+        <a href="https://sparc.science" target="_blank" rel="noopener">Visit SPARC &rarr;</a>
+      </div>
+
+      <div class="project-card" id="odc-sci">
+        <h3>ODC-SCI <span class="project-tag">Open Data</span></h3>
+        <p>
+          The Open Data Commons for Spinal Cord Injury (ODC-SCI) is a repository and portal
+          for sharing spinal cord injury research data. The project aims to maximize the
+          value of existing data through reuse and integration.
+        </p>
+        <a href="https://scicrunch.org/odc-sci" target="_blank" rel="noopener">Visit ODC-SCI &rarr;</a>
+      </div>
+
+      <div class="project-card" id="repronim">
+        <h3>ReproNim <span class="project-tag">Reproducibility</span></h3>
+        <p>
+          ReproNim (Reproducible Neuroimaging) is a Center for Reproducible Neuroimaging
+          Computation. The project develops standards, tools, and training to improve
+          reproducibility in neuroimaging research.
+        </p>
+        <a href="https://www.repronim.org" target="_blank" rel="noopener">Visit ReproNim &rarr;</a>
+      </div>
+
+      <div class="project-card" id="rrid">
+        <h3>RRID <span class="project-tag">Resource ID</span></h3>
+        <p>
+          The Resource Identification Initiative (RRID) provides unique, persistent identifiers
+          for key biological resources — including antibodies, model organisms, cell lines,
+          and software tools — cited in scientific literature. RRIDs dramatically improve
+          reproducibility and citability of research resources.
+        </p>
+        <a href="https://www.rrids.org" target="_blank" rel="noopener">Visit RRID &rarr;</a>
+      </div>
+
+      <div class="project-card" id="tara">
+        <h3>TARA <span class="project-tag">Text Mining</span></h3>
+        <p>
+          TARA (Text and Resource Annotation) focuses on automated text mining and annotation
+          of biomedical literature to extract resource mentions, experimental conditions,
+          and data provenance at scale.
+        </p>
+      </div>
+
+      <div class="project-card" id="biccn">
+        <h3>BICCN <span class="project-tag">Brain Cell Census</span></h3>
+        <p>
+          The Brain Initiative Cell Census Network (BICCN) is creating a comprehensive
+          census of cell types in the mouse brain. FDI Lab contributes to data standards,
+          ontologies, and portal infrastructure to make this atlas openly accessible.
+        </p>
+        <a href="https://biccn.org" target="_blank" rel="noopener">Visit BICCN &rarr;</a>
+      </div>
+
+      <div class="project-card" id="cinergi">
+        <h3>CINERGI <span class="project-tag">Geoscience</span></h3>
+        <p>
+          Community Inventory of EarthCube Resources for Geosciences Interoperability
+          (CINERGI) created a catalog and discovery system for geoscience data resources,
+          applying the SciCrunch platform to Earth sciences.
+        </p>
+      </div>
+
+      <div class="project-card" id="d3r">
+        <h3>D3R <span class="project-tag">Drug Discovery</span></h3>
+        <p>
+          The Drug Design Data Resource (D3R) hosts community-wide grand challenges in
+          computer-aided drug design and provides curated datasets to advance structure-based
+          drug design methodologies.
+        </p>
+        <a href="https://drugdesigndata.org" target="_blank" rel="noopener">Visit D3R &rarr;</a>
+      </div>
+
+      <div class="project-card" id="fsci">
+        <h3>FSCI <span class="project-tag">Training</span></h3>
+        <p>
+          The FORCE11 Scholarly Communication Institute (FSCI) is an annual summer program
+          offering advanced training in open science, data management, and scholarly
+          communication. FDI Lab faculty lead and contribute to FSCI courses.
+        </p>
+        <a href="https://www.force11.org/fsci" target="_blank" rel="noopener">Visit FSCI &rarr;</a>
+      </div>
+
+      <div class="project-card" id="nif">
+        <h3>NIF <span class="project-tag">Neuroscience</span></h3>
+        <p>
+          The Neuroscience Information Framework (NIF) — the precursor to FDI Lab — created
+          the first cross-database search engine for neuroscience resources and established
+          the NeuroLex ontology for neuroscience. NIF infrastructure continues to be
+          maintained and expanded.
+        </p>
+        <a href="https://neuinfo.org" target="_blank" rel="noopener">Visit NIF &rarr;</a>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-links">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="team.html">Team</a>
+        <a href="projects.html">Projects</a>
+        <a href="funding.html">Funding</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <p>&copy; <span id="yr"></span> FAIR Data Informatics Lab &bull; UC San Diego</p>
+    </div>
+  </footer>
+
+  <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
+</body>
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — FDI Lab</title>
+  <meta name="description" content="Learn about the FAIR Data Informatics Lab at UC San Diego, our mission, history, and approach to biomedical data infrastructure.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <span class="logo-badge">FDI</span>
+        <span>Lab</span>
+      </a>
+      <button class="nav-toggle" onclick="document.querySelector('nav').classList.toggle('open')" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html" class="active">About</a>
+        <a href="team.html">Team</a>
+        <a href="projects.html">Projects</a>
+        <a href="funding.html">Funding</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-hero">
+    <div class="container">
+      <h1>About FDI Lab</h1>
+      <p>Building the open data infrastructure that biomedical science needs.</p>
+    </div>
+  </div>
+
+  <!-- Mission -->
+  <section>
+    <div class="container">
+      <h2>Our Mission</h2>
+      <div class="divider"></div>
+      <p>
+        The FAIR Data Informatics (FDI) Lab at the University of California, San Diego is
+        a leader in developing and providing novel informatics infrastructure and tools for
+        making data <strong>Findable, Accessible, Interoperable, and Reusable (FAIR)</strong>.
+      </p>
+      <p>
+        Our work spans the development of technology, services, and policy — thereby
+        improving accuracy, reproducibility, and analysis in biomedical research. We bring
+        together expertise in biology, computer science, library science, and ontology
+        engineering to build infrastructure that works for scientists across disciplines.
+      </p>
+    </div>
+  </section>
+
+  <!-- History -->
+  <section>
+    <div class="container">
+      <h2>Our History</h2>
+      <div class="divider"></div>
+      <p>
+        FDI Lab originated in <strong>2008</strong> as the
+        <strong>Neuroscience Information Framework (NIF)</strong>, an NIH Blueprint Consortium
+        initiative. NIF began cataloging neuroscience resources in 2006 and created one of the
+        first cross-database search engines for biomedical research, indexing hundreds of
+        databases, tools, and resources.
+      </p>
+      <p>
+        Building on this foundation, the lab developed <strong>SciCrunch</strong> — a
+        customizable platform for creating domain-specific data portals. SciCrunch now powers
+        infrastructure for multiple biomedical communities, including the
+        <strong>dkNET</strong> portal for digestive, diabetes, and kidney disease research.
+      </p>
+      <p>
+        A particularly impactful initiative has been the
+        <strong>Resource Identification Initiative (RRID)</strong>, which provides unique,
+        persistent identifiers for research resources including antibodies, cell lines,
+        organisms, and biosamples cited in scientific literature — dramatically improving
+        reproducibility across the published record.
+      </p>
+      <p>
+        FDI Lab actively participates in open-science organizations including
+        <strong>FORCE11</strong> and the
+        <strong>International Neuroinformatics Coordinating Facility (INCF)</strong>.
+      </p>
+    </div>
+  </section>
+
+  <!-- FAIR explained -->
+  <section>
+    <div class="container">
+      <h2>About FAIR</h2>
+      <div class="divider"></div>
+      <p>
+        The FAIR Guiding Principles, published in <em>Scientific Data</em> in 2016, provide
+        a framework for making data and digital assets maximally reusable. FDI Lab was an
+        early adopter and active contributor to FAIR practice across the biomedical community.
+      </p>
+      <div class="cards">
+        <div class="card">
+          <h3>Findable</h3>
+          <p>Data and metadata are assigned globally unique, persistent identifiers and are deposited in searchable resources. Rich metadata helps both humans and machines discover datasets efficiently.</p>
+        </div>
+        <div class="card">
+          <h3>Accessible</h3>
+          <p>Once found, data and metadata can be retrieved using open, standardized protocols. Authentication and authorization rules are transparent, and metadata remain accessible even when data are not.</p>
+        </div>
+        <div class="card">
+          <h3>Interoperable</h3>
+          <p>Data use a formal, accessible, shared, and broadly applicable language for knowledge representation. Vocabularies follow FAIR principles, and qualified references to other data are included.</p>
+        </div>
+        <div class="card" style="grid-column: span 1;">
+          <h3>Reusable</h3>
+          <p>Data have rich, accurate metadata; a clear, accessible data usage license; detailed provenance; and meet domain-relevant community standards to support replication and reuse.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-links">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="team.html">Team</a>
+        <a href="projects.html">Projects</a>
+        <a href="funding.html">Funding</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <p>&copy; <span id="yr"></span> FAIR Data Informatics Lab &bull; UC San Diego</p>
+    </div>
+  </footer>
+
+  <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
+</body>
+</html>
