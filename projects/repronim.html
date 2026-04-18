@@ -21,9 +21,14 @@
         <a href="../index.html">Home</a>
         <a href="../about.html">About</a>
         <a href="../team.html">Team</a>
-        <a href="../projects.html" class="active">Projects</a>
-        <a href="../tools.html">Tools &amp; Services</a>
-        <a href="../funding.html">Funding</a>
+        <div class="nav-dropdown">
+          <button class="nav-dropdown-btn active" onclick="this.closest('.nav-dropdown').classList.toggle('open')">Research ▾</button>
+          <div class="nav-dropdown-menu">
+            <a href="../projects.html" class="active">Projects</a>
+            <a href="../tools.html">Tools &amp; Services</a>
+            <a href="../funding.html">Funding</a>
+          </div>
+        </div>
         <a href="../contact.html">Contact</a>
       </nav>
     </div>
@@ -101,6 +106,14 @@
         <a href="../tools.html">Tools &amp; Services</a>
         <a href="../funding.html">Funding</a>
         <a href="../contact.html">Contact</a>
+      </div>
+      <div class="footer-github">
+        <a href="https://github.com/SciCrunch/FDI-Lab-Website" target="_blank" rel="noopener">
+          <img src="../images/site/github-mark.svg" alt="">GitHub
+        </a>
+        <a href="https://github.com/SciCrunch/FDI-Lab-Website/issues/new" target="_blank" rel="noopener">
+          <img src="../images/site/github-mark.svg" alt="">Leave feedback
+        </a>
       </div>
       <p>&copy; <span id="yr"></span> FAIR Data Informatics Lab &bull; UC San Diego</p>
     </div>
