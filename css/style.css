@@ -354,6 +354,30 @@ nav a.active {
 .team-card h4 { font-size: 0.95rem; color: var(--navy); margin-bottom: 0.2rem; }
 .team-card .role { font-size: 0.82rem; color: var(--gray-text); font-style: italic; }
 
+.team-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  align-items: center;
+  margin-top: 0.6rem;
+}
+
+.team-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.78rem;
+  color: var(--accent);
+}
+
+.team-link:hover { text-decoration: underline; }
+
+.team-link img {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+}
+
 /* ── Section header ── */
 .section-header { text-align: center; margin-bottom: 0.5rem; }
 .section-header p { color: var(--gray-text); max-width: 640px; margin: 0 auto; }
