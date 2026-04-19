@@ -401,6 +401,16 @@ nav a.active {
 .funding-list li strong { color: var(--navy); }
 .grant-id { font-family: monospace; font-size: 0.85rem; color: var(--gray-text); }
 
+/* ── Publications ── */
+.pub-list { list-style: decimal; padding-left: 1.5rem; margin-top: 0.75rem; }
+.pub-list li {
+  color: var(--gray-text);
+  line-height: 1.7;
+  margin-bottom: 0.85rem;
+  font-size: 0.93rem;
+}
+.pub-list li a { color: var(--accent); }
+
 /* ── Contact ── */
 .contact-box {
   background: var(--white);
