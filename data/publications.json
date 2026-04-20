@@ -369,20 +369,6 @@
   },
   {
     "year": 2020,
-    "type": "conference-paper",
-    "doi": null,
-    "title": "An approach to represent and transform application-specific constraints for an intrusion detection system",
-    "citation": "Cervantes J, García‐Lamont F, Rodríguez-Mazahua L, López‐Chau A. A comprehensive survey on support vector machine classification: Applications, challenges and trends. In: Neurocomputing. 2020. doi:10.1016/j.neucom.2019.10.118."
-  },
-  {
-    "year": 2020,
-    "type": "conference-paper",
-    "doi": null,
-    "title": "LL(k) optimization of a network protocol parser generator",
-    "citation": "Lavorato K, Imam FT, Dean T. Deep Learning for Cardiac Image Segmentation: A Review. In: Frontiers in Cardiovascular Medicine. 2020. doi:10.3389/fcvm.2020.00025."
-  },
-  {
-    "year": 2020,
     "type": "journal-article",
     "doi": "10.1089/neu.2019.6674",
     "title": "FAIR SCI Ahead: The Evolution of the Open Data Commons for Pre-Clinical Spinal Cord Injury Research",
@@ -554,13 +540,6 @@
     "citation": "Prager EM, Chambers KE, Plotkin JL, McArthur DL, Bandrowski AE, Bansal N, Martone ME, Bergstrom HC, Bespalov A, Graf C. Improving transparency and scientific rigor in academic publishing. J of Neuroscience Research. 2019;97(4):377-390. doi:10.1002/jnr.24340. PubMed PMID: 30506706; PubMed Central PMCID: PMC12990824.",
     "pmid": "30506706",
     "pmcid": "PMC12990824"
-  },
-  {
-    "year": 2019,
-    "type": "book",
-    "doi": "10.1007/978-3-030-20074-9_5",
-    "title": "Generating a real-time constraint engine for network protocols",
-    "citation": "Rakha MS, Imam FT, Dean TR. Generating a real-time constraint engine for network protocols. In: Lecture Notes in Computer Science. Springer International Publishing; 2019:44-60. doi:10.1007/978-3-030-20074-9_5."
   },
   {
     "year": 2019,
@@ -747,13 +726,6 @@
   },
   {
     "year": 2016,
-    "type": "journal-article",
-    "doi": null,
-    "title": "Developing a Semantic Model to Describe Physical Activity Data.",
-    "citation": "Kim Hyeoneui, Kim Jihoon, Shenvi Edna, Quach Jimmy, Sutjiadi Brian, Richardson Alex, Lin Ko-Wei. Developing a Semantic Model to Describe Physical Activity Data. Studies in health technology and informatics. 2016;225:447-51. doi:10.3233/978-1-61499-658-3-447."
-  },
-  {
-    "year": 2016,
     "type": "conference-paper",
     "doi": null,
     "title": "Affordances in representing the behaviour of event-based systems",
@@ -761,24 +733,10 @@
   },
   {
     "year": 2016,
-    "type": "conference-paper",
-    "doi": "10.1016/j.procs.2016.08.243",
-    "title": "Modelling Functional Behavior of Event-based Systems: A Practical Knowledge-based Approach",
-    "citation": "Imam FT, Dean TR. Modelling Functional Behavior of Event-based Systems: A Practical Knowledge-based Approach. 2016:617-626. doi:10.1016/j.procs.2016.08.243."
-  },
-  {
-    "year": 2016,
     "type": "journal-article",
     "doi": "10.3389/conf.fninf.2016.20.00063",
     "title": "SciCrunch: A Cooperative And Collaborative Data, Information, And Resource Discovery Portal For Scientific Communities",
     "citation": "Jeffrey G, Anita B, Michael C, Tom G, James G, Yueling L, Ibrahim O, Maryann M. SciCrunch: A Cooperative And Collaborative Data, Information, And Resource Discovery Portal For Scientific Communities. Front. Neuroinform.. 2016;10. doi:10.3389/conf.fninf.2016.20.00063."
-  },
-  {
-    "year": 2016,
-    "type": "journal-article",
-    "doi": "10.1145/2963143",
-    "title": "The six pillars for building big data analytics ecosystems",
-    "citation": "Khalifa S, Elshater Y, Sundaravarathan K, Bhat A, Martin P, Imam F, Rope D, Mcroberts M, Statchuk C. The six pillars for building big data analytics ecosystems. ACM Comput. Surv.. 2016;49(2):1-36. doi:10.1145/2963143."
   },
   {
     "year": 2016,
@@ -797,13 +755,6 @@
     "citation": "Bandrowski A, Brush M, Grethe JS, Haendel MA, Kennedy DN, Hill S, Hof PR, Martone ME, Pols M, Tan SS, Washington N, Zudilova-Seinstra E, Vasilevsky N. The Resource Identification Initiative: A Cultural Shift in Publishing. Neuroinform. 2016;14(2):169-182. doi:10.1007/s12021-015-9284-3. PubMed PMID: 26589523; PubMed Central PMCID: PMC5072392.",
     "pmid": "26589523",
     "pmcid": "PMC5072392"
-  },
-  {
-    "year": 2016,
-    "type": "conference-paper",
-    "doi": null,
-    "title": "Cross-platform functional consistency validation for the event-driven systems: An ontology-based approach",
-    "citation": "Serin EAR, Nijveen H, Hilhorst HWM, Ligterink W. Learning from Co-expression Networks: Possibilities and Challenges. In: Frontiers in Plant Science. 2016. doi:10.3389/fpls.2016.00444."
   },
   {
     "year": 2016,
@@ -942,15 +893,6 @@
   {
     "year": 2014,
     "type": "journal-article",
-    "doi": "10.1165/rcmb.2013-0171oc",
-    "title": "T cells and lung injury. Impact of rapamycin.",
-    "citation": "Nakajima T, Lin KW, Li J, McGee HS, Kwan JM, Perkins DL, Finn PW. T cells and lung injury. Impact of rapamycin. American Journal of Respiratory Cell and Molecular Biology. 2014;51(2):294-299. doi:10.1165/rcmb.2013-0171oc. PubMed PMID: 24641710; PubMed Central PMCID: PMC4148036.",
-    "pmid": "24641710",
-    "pmcid": "PMC4148036"
-  },
-  {
-    "year": 2014,
-    "type": "journal-article",
     "doi": "10.1186/2041-1480-5-1",
     "title": "Neuroanatomical domain of the foundational model of anatomy ontology.",
     "citation": "Nichols B, Mejino JL, Detwiler LT, Nilsen TT, Martone ME, Turner JA, Rubin DL, Brinkley JF. Neuroanatomical domain of the foundational model of anatomy ontology. J Biomed Sem. 2014;5(1):1. doi:10.1186/2041-1480-5-1. PubMed PMID: 24398054; PubMed Central PMCID: PMC3944952.",
@@ -989,15 +931,6 @@
   },
   {
     "year": 2013,
-    "type": "journal-article",
-    "doi": "10.1136/amiajnl-2013-001882",
-    "title": "PhenDisco: phenotype discovery system for the database of genotypes and phenotypes.",
-    "citation": "Doan S, Lin KW, Conway M, Ohno-Machado L, Hsieh A, Feupe SF, Garland A, Ross MK, Jiang X, Farzaneh S, Walker R, Alipanah N, Zhang J, Xu H, Kim HE. PhenDisco: phenotype discovery system for the database of genotypes and phenotypes. J Am Med Inform Assoc. 2013;21(1):31-36. doi:10.1136/amiajnl-2013-001882. PubMed PMID: 23989082; PubMed Central PMCID: PMC3912702.",
-    "pmid": "23989082",
-    "pmcid": "PMC3912702"
-  },
-  {
-    "year": 2013,
     "type": "conference-paper",
     "doi": "10.1145/2484838.2484839",
     "title": "Semantic query reformulation",
@@ -1018,15 +951,6 @@
     "citation": "Larson SD, Martone ME. NeuroLex.org: an online framework for neuroscience knowledge. Front. Neuroinform.. 2013;7. doi:10.3389/fninf.2013.00018. PubMed PMID: 24009581; PubMed Central PMCID: PMC3757470.",
     "pmid": "24009581",
     "pmcid": "PMC3757470"
-  },
-  {
-    "year": 2013,
-    "type": "journal-article",
-    "doi": "10.1371/journal.pone.0076384",
-    "title": "Feasibility of using Clinical Element Models (CEM) to standardize phenotype variables in the database of genotypes and phenotypes (dbGaP).",
-    "citation": "Lin KW, Tharp M, Conway M, Hsieh A, Ross M, Kim J, Kim HE. Feasibility of using Clinical Element Models (CEM) to standardize phenotype variables in the database of genotypes and phenotypes (dbGaP). PLoS ONE. 2013;8(9):e76384. doi:10.1371/journal.pone.0076384. PubMed PMID: 24058713; PubMed Central PMCID: PMC3776754.",
-    "pmid": "24058713",
-    "pmcid": "PMC3776754"
   },
   {
     "year": 2013,
@@ -1076,15 +1000,6 @@
   {
     "year": 2013,
     "type": "journal-article",
-    "doi": "10.4137/bii.s11987",
-    "title": "Text Categorization of Heart, Lung, and Blood Studies in the Database of Genotypes and Phenotypes (dbGaP) Utilizing n-grams and Metadata Features.",
-    "citation": "Ross MK, Lin KW, Truong K, Kumar A, Conway M. Text Categorization of Heart, Lung, and Blood Studies in the Database of Genotypes and Phenotypes (dbGaP) Utilizing n-grams and Metadata Features. Biomed Inform Insights. 2013;6:BII.S11987. doi:10.4137/bii.s11987. PubMed PMID: 23926434; PubMed Central PMCID: PMC3728208.",
-    "pmid": "23926434",
-    "pmcid": "PMC3728208"
-  },
-  {
-    "year": 2013,
-    "type": "journal-article",
     "doi": "10.3389/fncir.2013.00080",
     "title": "A knowledge based approach to matching human neurodegenerative disease and animal models",
     "citation": "Vouimba RM, Richter-Levin G. A knowledge based approach to matching human neurodegenerative disease and animal models. Front. Neural Circuits. 2013;7. doi:10.3389/fncir.2013.00080. PubMed PMID: 23653594; PubMed Central PMCID: PMC3642501.",
@@ -1125,13 +1040,6 @@
     "title": "A Survey of the Neuroscience Resource Landscape. Perspectives from the Neuroscience Information Framework.",
     "citation": "Cachat J, Bandrowski A, Grethe JS, Gupta A, Astakhov V, Imam F, Larson SD, Martone ME. A Survey of the Neuroscience Resource Landscape. Perspectives from the Neuroscience Information Framework. In: International Review of Neurobiology. Elsevier; 2012:39-68. doi:10.1016/b978-0-12-388408-4.00003-4. PubMed PMID: 23195120.",
     "pmid": "23195120"
-  },
-  {
-    "year": 2012,
-    "type": "journal-article",
-    "doi": "10.4018/ijkbo.2012100103",
-    "title": "Ontology Merging and Reasoning Using Paraconsistent Logics",
-    "citation": "Cocos C, Imam F, MacCaull W. Ontology Merging and Reasoning Using Paraconsistent Logics. International Journal of Knowledge-Based Organizations. 2012;2(4):35-51. doi:10.4018/ijkbo.2012100103."
   },
   {
     "year": 2012,
@@ -1183,15 +1091,6 @@
     "title": "Computational Neuroscience Ontology: a new tool to provide semantic meaning to your models",
     "citation": "Le Franc Y, Davison AP, Gleeson P, Imam FT, Kriener B, Larson SD, Ray S, Schwabe L, Hill S, De Schutter E. Computational Neuroscience Ontology: a new tool to provide semantic meaning to your models. BMC Neurosci. 2012;13(S1). doi:10.1186/1471-2202-13-s1-p149. PubMed Central PMCID: PMC3403625.",
     "pmcid": "PMC3403625"
-  },
-  {
-    "year": 2012,
-    "type": "journal-article",
-    "doi": "10.1165/rcmb.2012-0155oc",
-    "title": "Regulation of cytotoxic T lymphocyte antigen 4 by cyclic AMP.",
-    "citation": "Li J, Lin KW, Murray F, Nakajima T, Zhao Y, Perkins DL, Finn PW. Regulation of cytotoxic T lymphocyte antigen 4 by cyclic AMP. American Journal of Respiratory Cell and Molecular Biology. 2012;48(1):63-70. doi:10.1165/rcmb.2012-0155oc. PubMed PMID: 23024062; PubMed Central PMCID: PMC3547085.",
-    "pmid": "23024062",
-    "pmcid": "PMC3547085"
   },
   {
     "year": 2012,
@@ -1262,14 +1161,6 @@
   {
     "year": 2011,
     "type": "journal-article",
-    "doi": "10.1016/j.bbagen.2011.04.015",
-    "title": "Emerging pathways in asthma: innate and adaptive interactions.",
-    "citation": "Lin KW, Li J, Finn PW. Emerging pathways in asthma: innate and adaptive interactions. Biochimica et Biophysica Acta (BBA) - General Subjects. 2011;1810(11):1052-1058. doi:10.1016/j.bbagen.2011.04.015. PubMed PMID: 21596099.",
-    "pmid": "21596099"
-  },
-  {
-    "year": 2011,
-    "type": "journal-article",
     "doi": null,
     "title": "Correction: Digital Atlasing and Standardization in the Mouse Brain.",
     "citation": "Hawrylycz M, Baldock RA, Burger A, Hashikawa T, Johnson GA, Martone M, Ng L, Lau C, Larsen SD, Nissanov J, Puelles L, Ruffins S, Verbeek F, Zaslavsky I, Boline J. Correction: Digital Atlasing and Standardization in the Mouse Brain. 2011 Feb."
@@ -1289,15 +1180,6 @@
     "doi": null,
     "title": "An ontology-based approach to linking model organisms and resources to human diseases",
     "citation": "Mungall C, Anderson DA, Bandrowski A, Canada BA, Chatyr-Aryamontri A, Cheng KC, et al. An ontology-based approach to linking model organisms and resources to human diseases. 2011."
-  },
-  {
-    "year": 2011,
-    "type": "journal-article",
-    "doi": "10.1186/1465-9921-12-118",
-    "title": "Mucin granule-associated proteins in human bronchial epithelial cells: the airway goblet cell \"granulome\".",
-    "citation": "Raiford KL, Park J, Lin KW, Fang S, Crews AL, Adler KB. Mucin granule-associated proteins in human bronchial epithelial cells: the airway goblet cell \"granulome\". Respir Res. 2011;12(1). doi:10.1186/1465-9921-12-118. PubMed PMID: 21896166; PubMed Central PMCID: PMC3184067.",
-    "pmid": "21896166",
-    "pmcid": "PMC3184067"
   },
   {
     "year": 2011,
@@ -1366,24 +1248,6 @@
   {
     "year": 2010,
     "type": "journal-article",
-    "doi": "10.4049/jimmunol.0901947",
-    "title": "Surfactant protein D-mediated decrease of allergen-induced inflammation is dependent upon CTLA4.",
-    "citation": "Lin KW, Jen KY, Suarez CJ, Crouch EC, Perkins DL, Finn PW. Surfactant protein D-mediated decrease of allergen-induced inflammation is dependent upon CTLA4. The Journal of Immunology. 2010;184(11):6343-6349. doi:10.4049/jimmunol.0901947. PubMed PMID: 20435925; PubMed Central PMCID: PMC2905687.",
-    "pmid": "20435925",
-    "pmcid": "PMC2905687"
-  },
-  {
-    "year": 2010,
-    "type": "journal-article",
-    "doi": "10.1165/rcmb.2010-0016rc",
-    "title": "MARCKS and related chaperones bind to unconventional myosin V isoforms in airway epithelial cells.",
-    "citation": "Lin KW, Fang S, Park J, Crews AL, Adler KB. MARCKS and related chaperones bind to unconventional myosin V isoforms in airway epithelial cells. American Journal of Respiratory Cell and Molecular Biology. 2010;43(2):131-136. doi:10.1165/rcmb.2010-0016rc. PubMed PMID: 20203291; PubMed Central PMCID: PMC2937227.",
-    "pmid": "20203291",
-    "pmcid": "PMC2937227"
-  },
-  {
-    "year": 2010,
-    "type": "journal-article",
     "doi": "10.3389/conf.fnins.2010.13.00013",
     "title": "The possibility and probability of a global neuroscience information framework",
     "citation": "Maryann M. The possibility and probability of a global neuroscience information framework. Front. Neurosci.. 2010;4. doi:10.3389/conf.fnins.2010.13.00013."
@@ -1394,15 +1258,6 @@
     "doi": "10.3389/conf.fnins.2010.13.00083",
     "title": "Activities of the US INCF Node",
     "citation": "Maryann M. Activities of the US INCF Node. Front. Neurosci.. 2010;4. doi:10.3389/conf.fnins.2010.13.00083."
-  },
-  {
-    "year": 2010,
-    "type": "journal-article",
-    "doi": "10.4049/jimmunol.0903238",
-    "title": "T cell pathways involving CTLA4 contribute to a model of acute lung injury.",
-    "citation": "Nakajima T, Suarez CJ, Lin KW, Jen KY, Schnitzer JE, Makani SS, Parker N, Perkins DL, Finn PW. T cell pathways involving CTLA4 contribute to a model of acute lung injury. The Journal of Immunology. 2010;184(10):5835-5841. doi:10.4049/jimmunol.0903238. PubMed PMID: 20385880; PubMed Central PMCID: PMC3068917.",
-    "pmid": "20385880",
-    "pmcid": "PMC3068917"
   },
   {
     "year": 2010,
@@ -1429,22 +1284,6 @@
     "title": "Mediator Infrastructure for Information Integration and Semantic Data Integration Environment for Biomedical Research",
     "citation": "Grethe JS, Ross E, Little D, Sanders B, Gupta A, Astakhov V. Mediator Infrastructure for Information Integration and Semantic Data Integration Environment for Biomedical Research. In: Methods in Molecular Biology. Humana Press; 2009:33-53. doi:10.1007/978-1-59745-524-4_3. PubMed PMID: 19623485.",
     "pmid": "19623485"
-  },
-  {
-    "year": 2009,
-    "type": "journal-article",
-    "doi": "10.1242/jcs.028175",
-    "title": "Three-dimensional electron microscopy reveals new details of membrane systems for Ca2+ signaling in the heart.",
-    "citation": "Hayashi T, Martone ME, Yu Z, Thor A, Doi M, Holst MJ, Ellisman MH, Hoshijima M. Three-dimensional electron microscopy reveals new details of membrane systems for Ca2+ signaling in the heart. Journal of Cell Science. 2009;122(7):1005-1013. doi:10.1242/jcs.028175. PubMed PMID: 19295127; PubMed Central PMCID: PMC2720931.",
-    "pmid": "19295127",
-    "pmcid": "PMC2720931"
-  },
-  {
-    "year": 2009,
-    "type": "book-chapter",
-    "doi": "10.1007/978-3-642-00328-8_37",
-    "title": "Integrating Healthcare Ontologies: Inconsistency Tolerance and Case Study",
-    "citation": "Imam F, MacCaull W. Integrating Healthcare Ontologies: Inconsistency Tolerance and Case Study. In: Lecture Notes in Business Information Processing. Springer Berlin Heidelberg; 2009:373-384. doi:10.1007/978-3-642-00328-8_37."
   },
   {
     "year": 2009,
@@ -1584,23 +1423,5 @@
     "doi": "10.3389/conf.neuro.11.2008.01.134",
     "title": "A spatial framework for multi-scale computational neuroanatomy",
     "citation": "Maryann M. A spatial framework for multi-scale computational neuroanatomy. Front. Neuroinform.. 2008;2. doi:10.3389/conf.neuro.11.2008.01.134."
-  },
-  {
-    "year": 2008,
-    "type": "journal-article",
-    "doi": "10.1165/rcmb.2007-0139oc",
-    "title": "MARCKS regulation of mucin secretion by airway epithelium in vitro: interaction with chaperones.",
-    "citation": "Park J, Fang S, Crews AL, Lin KW, Adler KB. MARCKS regulation of mucin secretion by airway epithelium in vitro: interaction with chaperones. American Journal of Respiratory Cell and Molecular Biology. 2008;39(1):68-76. doi:10.1165/rcmb.2007-0139oc. PubMed PMID: 18314541; PubMed Central PMCID: PMC2438449.",
-    "pmid": "18314541",
-    "pmcid": "PMC2438449"
-  },
-  {
-    "year": 2008,
-    "type": "journal-article",
-    "doi": "10.1016/j.jsb.2007.09.002",
-    "title": "The combination of chemical fixation procedures with high pressure freezing and freeze substitution preserves highly labile tissue ultrastructure for electron tomography applications.",
-    "citation": "Sosinsky GE, Crum J, Jones YZ, Lanman J, Smarr B, Terada M, Martone ME, Deerinck TJ, Johnson JE, Ellisman MH. The combination of chemical fixation procedures with high pressure freezing and freeze substitution preserves highly labile tissue ultrastructure for electron tomography applications. Journal of Structural Biology. 2008;161(3):359-371. doi:10.1016/j.jsb.2007.09.002. PubMed PMID: 17962040; PubMed Central PMCID: PMC2459253.",
-    "pmid": "17962040",
-    "pmcid": "PMC2459253"
   }
 ]
