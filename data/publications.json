@@ -975,13 +975,6 @@
   },
   {
     "year": 2016,
-    "type": "conference-paper",
-    "doi": null,
-    "title": "Affordances in representing the behaviour of event-based systems",
-    "citation": "Imam FT, Dean T. Affordances in Representing the Behaviour of Event-Based Systems.. 2016."
-  },
-  {
-    "year": 2016,
     "type": "journal-article",
     "doi": "10.3389/conf.fninf.2016.20.00063",
     "title": "SciCrunch: A Cooperative And Collaborative Data, Information, And Resource Discovery Portal For Scientific Communities",
@@ -1138,13 +1131,6 @@
     "citation": "Nichols B, Mejino JL, Detwiler LT, Nilsen TT, Martone ME, Turner JA, Rubin DL, Brinkley JF. Neuroanatomical domain of the foundational model of anatomy ontology. J Biomed Sem. 2014;5(1):1. doi:10.1186/2041-1480-5-1. PubMed PMID: 24398054; PubMed Central PMCID: PMC3944952.",
     "pmid": "24398054",
     "pmcid": "PMC3944952"
-  },
-  {
-    "year": 2013,
-    "type": "journal-article",
-    "doi": null,
-    "title": "Phenotype Information Retrieval for Existing GWAS Studies.",
-    "citation": "Alipanah N, Lin K, Venkatesh V, Farzaneh S, Kim HE. Phenotype Information Retrieval for Existing GWAS Studies.. PubMed. 2013;2013:4-8."
   },
   {
     "year": 2013,
