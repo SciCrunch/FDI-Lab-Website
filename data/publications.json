@@ -1,0 +1,1606 @@
+[
+  {
+    "year": 2026,
+    "type": "preprint",
+    "doi": "10.64898/2026.01.16.699952",
+    "title": "Rigor and Transparency in two neurotrauma-publishing journals: editorial policies improve transparent reporting",
+    "citation": "Bandrowski A, Namburi A, Ferguson A, Floyd CL, Martone ME. Rigor and Transparency in two neurotrauma-publishing journals: editorial policies improve transparent reporting [Preprint]. Preprint; 2026. doi:10.64898/2026.01.16.699952."
+  },
+  {
+    "year": 2026,
+    "type": "journal-article",
+    "doi": "10.5281/zenodo.18472747",
+    "title": "Towards creating an injury severity index for experimental traumatic brain injury (TBI): data-driven and knowledge-driven approaches",
+    "citation": "Ferguson A, Radabaugh H, Huie JR, LaPlaca M, Dixon CE, Surles-Zeigler M, et al. Towards creating an injury severity index for experimental traumatic brain injury (TBI): data-driven and knowledge-driven approaches. 2026. doi:10.5281/zenodo.18472747."
+  },
+  {
+    "year": 2026,
+    "type": "preprint",
+    "doi": "10.5281/zenodo.18603759",
+    "title": "Improving data quality in neurotrauma data sharing: The Open Data Commons minimal data standards and a data tool for compliance",
+    "citation": "Fond KA, Radabaugh H, Vavrek R, Axtman P, Huie JR, Fedor BA, et al. Improving data quality in neurotrauma data sharing: The Open Data Commons minimal data standards and a data tool for compliance [Preprint]. Zenodo; 2026. doi:10.5281/zenodo.18603759."
+  },
+  {
+    "year": 2026,
+    "type": "preprint",
+    "doi": "10.5281/zenodo.18624818",
+    "title": "Enhancing Data Sharing for Preclinical Traumatic Brain Injury Research with Common Data Elements",
+    "citation": "LaPlaca MC, Harris NG, Surles-Zeigler MC, Gurkoff GG, Ferguson A, Dixon CE, et al. Enhancing Data Sharing for Preclinical Traumatic Brain Injury Research with Common Data Elements [Preprint]. Zenodo; 2025. doi:10.5281/zenodo.18624818."
+  },
+  {
+    "year": 2026,
+    "type": "journal-article",
+    "doi": "10.5281/zenodo.18616679",
+    "title": "The Open Data Commons for Traumatic Brain Injury: an Interagency Community Platform for Pre-clinical Data Management and Sharing",
+    "citation": "Martone M, Huie JR, Axtman PJ, Maliga Davis A, Gurkoff G, Torres Espín A, et al. The Open Data Commons for Traumatic Brain Injury: an Interagency Community Platform for Pre-clinical Data Management and Sharing. 2026. doi:10.5281/zenodo.18616679."
+  },
+  {
+    "year": 2026,
+    "type": "preprint",
+    "doi": "10.64898/2026.02.10.704562",
+    "title": "PRECISE TBI Model Catalog: Increasing Accessibility and Reproducibility in TBI research",
+    "citation": "Surles-Zeigler MC, Holmes L, Sincomb T, Martone ME, Grethe JS, Ferguson AR, et al. PRECISE TBI Model Catalog: Increasing Accessibility and Reproducibility in TBI research [Preprint]. Preprint; 2026. doi:10.64898/2026.02.10.704562. PubMed PMID: 41727021; PubMed Central PMCID: PMC12918779.",
+    "pmid": "41727021",
+    "pmcid": "PMC12918779"
+  },
+  {
+    "year": 2025,
+    "type": "journal-article",
+    "doi": "10.1093/pm/pnaf003",
+    "title": "Building community through data: the value of a researcher driven open science ecosystem",
+    "citation": "Adams MCB, Bann CM, Bayman EO, Chao M, Hergenroeder GW, Knott C, et al. Building community through data: the value of a researcher driven open science ecosystem. Pain Medicine. 2025 Jan;26(6):295-298. doi:10.1093/pm/pnaf003. PubMed PMID: 39836639; PubMed Central PMCID: PMC12130680.",
+    "pmid": "39836639",
+    "pmcid": "PMC12130680"
+  },
+  {
+    "year": 2024,
+    "type": "preprint",
+    "doi": "10.1101/2024.10.25.620360",
+    "title": "Developing a Multiscale Neural Connectivity Knowledgebase of the Autonomic Nervous System",
+    "citation": "Imam FT, Gillespie TH, Ziogas I, Surles-Zeigler MC, Tappan S, Ozyurt BI, et al. Developing a Multiscale Neural Connectivity Knowledgebase of the Autonomic Nervous System [Preprint]. Preprint; 2024. doi:10.1101/2024.10.25.620360. PubMed PMID: 39651195; PubMed Central PMCID: PMC11623530.",
+    "pmid": "39651195",
+    "pmcid": "PMC11623530"
+  },
+  {
+    "year": 2024,
+    "type": "preprint",
+    "doi": "10.1101/2024.10.15.618379",
+    "title": "Automatic Detection and Extraction of Key Resources from Tables in Biomedical Papers",
+    "citation": "Ozyurt IB, Bandrowski A. Automatic Detection and Extraction of Key Resources from Tables in Biomedical Papers [Preprint]. Preprint; 2024. doi:10.1101/2024.10.15.618379. PubMed PMID: 39464155; PubMed Central PMCID: PMC11507667.",
+    "pmid": "39464155",
+    "pmcid": "PMC11507667"
+  },
+  {
+    "year": 2024,
+    "type": "preprint",
+    "doi": "10.31219/osf.io/u3c4y",
+    "title": "Ten simple rules for recognizing data and software contributions in hiring, promotion and tenure",
+    "citation": "Puebla I, Ascoli G, Blume J, Chodacki J, Finnell J, Kennedy DN, et al. Ten simple rules for recognizing data and software contributions in hiring, promotion and tenure [Preprint]. Preprint; 2024. doi:10.31219/osf.io/u3c4y."
+  },
+  {
+    "year": 2024,
+    "type": "conference-paper",
+    "doi": "10.48813/975a-pd17",
+    "title": "Do Organisms Need an Impact Factor? Other Use Cases for PIDs",
+    "citation": "Tom G, Anita B. Do Organisms Need an Impact Factor? Other Use Cases for PIDs. In: Institutional digital repository NTL (National Library of Technology (NTK), Czech Republic). 2024. doi:10.48813/975a-pd17."
+  },
+  {
+    "year": 2023,
+    "type": "journal-article",
+    "doi": "10.1371/journal.pbio.3002133",
+    "title": "A guide to the BRAIN Initiative Cell Census Network data ecosystem",
+    "citation": "Hawrylycz M, Martone ME, Ascoli GA, Bjaalie JG, Dong HW, Ghosh SS, et al. A guide to the BRAIN Initiative Cell Census Network data ecosystem. PLOS Biology. 2023 Jun;21(6):e3002133. doi:10.1371/journal.pbio.3002133. PubMed PMID: 37390046; PubMed Central PMCID: PMC10313015.",
+    "pmid": "37390046",
+    "pmcid": "PMC10313015"
+  },
+  {
+    "year": 2023,
+    "type": "preprint",
+    "doi": "10.1101/2023.01.22.525049",
+    "title": "AtOM, an ontology model for standardizing use of brain atlases in tools, workflows, and data infrastructures",
+    "citation": "Kleven H, Gillespie TH, Zehl L, Dickscheid T, Bjaalie JG, Martone ME, et al. AtOM, an ontology model for standardizing use of brain atlases in tools, workflows, and data infrastructures [Preprint]. Preprint; 2023. doi:10.1101/2023.01.22.525049."
+  },
+  {
+    "year": 2023,
+    "type": "journal-article",
+    "doi": "10.1038/s41597-023-02389-4",
+    "title": "AtOM, an ontology model to standardize use of brain atlases in tools, workflows, and data infrastructures",
+    "citation": "Kleven H, Gillespie TH, Zehl L, Dickscheid T, Bjaalie JG, Martone ME, et al. AtOM, an ontology model to standardize use of brain atlases in tools, workflows, and data infrastructures. Scientific Data. 2023 Jul;10(1). doi:10.1038/s41597-023-02389-4. PubMed PMID: 37495585; PubMed Central PMCID: PMC10372146.",
+    "pmid": "37495585",
+    "pmcid": "PMC10372146"
+  },
+  {
+    "year": 2023,
+    "type": "journal-article",
+    "doi": "10.36591/se-d-4602-15",
+    "title": "Assessing the Effectiveness of SciScore in Supporting the Reproducibility of Scientific Research",
+    "citation": "Roelandse M, Ozyurt IB, Evanko D, Bandrowski A. Assessing the Effectiveness of SciScore in Supporting the Reproducibility of Scientific Research. Science Editor. 2023 Jun. doi:10.36591/se-d-4602-15. PubMed PMID: 40791864; PubMed Central PMCID: PMC12338114.",
+    "pmid": "40791864",
+    "pmcid": "PMC12338114"
+  },
+  {
+    "year": 2023,
+    "type": "preprint",
+    "doi": "10.17504/protocols.io.5qpvo3wodv4o/v1",
+    "title": "Protocol for Systematic Analysis Data Elements v1",
+    "citation": "Sheoran A, Martone M, Torres-Espin A. Protocol for Systematic Analysis Data Elements v1 [Preprint]. Preprint; 2023. doi:10.17504/protocols.io.5qpvo3wodv4o/v1."
+  },
+  {
+    "year": 2023,
+    "type": "preprint",
+    "doi": "10.1101/2023.10.29.564650",
+    "title": "Brain Injury Knowledge Ontology (BIKO) for traumatic brain injury: Formalizing concepts and methods used in translational traumatic brain injury research",
+    "citation": "Surles-Zeigler MC, Sincomb T, Dixon CE, Imam F, Gillespie T, Grethe JS, et al. Brain Injury Knowledge Ontology (BIKO) for traumatic brain injury: Formalizing concepts and methods used in translational traumatic brain injury research [Preprint]. Preprint; 2023. doi:10.1101/2023.10.29.564650."
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-021-09522-x",
+    "title": "Correction to: A Standards Organization for Open and FAIR Neuroscience: the International Neuroinformatics Coordinating Facility",
+    "citation": "Abrams MB, Bjaalie JG, Das S, Egan GF, Ghosh SS, Goscinski WJ, et al. Correction to: A Standards Organization for Open and FAIR Neuroscience: the International Neuroinformatics Coordinating Facility. Neuroinformatics. 2021 Apr;20(1):37-38. doi:10.1007/s12021-021-09522-x. PubMed PMID: 33851344; PubMed Central PMCID: PMC9629304.",
+    "pmid": "33851344",
+    "pmcid": "PMC9629304"
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-020-09509-0",
+    "title": "A Standards Organization for Open and FAIR Neuroscience: the International Neuroinformatics Coordinating Facility",
+    "citation": "Abrams MB, Bjaalie JG, Das S, Egan GF, Ghosh SS, Goscinski WJ, et al. A Standards Organization for Open and FAIR Neuroscience: the International Neuroinformatics Coordinating Facility. Neuroinformatics. 2021 Jan;20(1):25-36. doi:10.1007/s12021-020-09509-0. PubMed PMID: 33506383; PubMed Central PMCID: PMC9036053.",
+    "pmid": "33506383",
+    "pmcid": "PMC9036053"
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1093/nar/gkac927",
+    "title": "The Antibody Registry: ten years of registering antibodies",
+    "citation": "Bandrowski A, Pairish M, Eckmann P, Grethe J, Martone ME. The Antibody Registry: ten years of registering antibodies. Nucleic Acids Research. 2022 Nov;51(D1):D358-D367. doi:10.1093/nar/gkac927. PubMed PMID: 36370112; PubMed Central PMCID: PMC9825422.",
+    "pmid": "36370112",
+    "pmcid": "PMC9825422"
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1089/neur.2021.0061",
+    "title": "Empowering Data Sharing and Analytics through the Open Data Commons for Traumatic Brain Injury Research.",
+    "citation": "Chou A, Torres-Espín A, Huie JR, Krukowski K, Lee S, Nolan A, et al. Empowering Data Sharing and Analytics through the Open Data Commons for Traumatic Brain Injury Research. Neurotrauma Reports. 2022 Apr;3(1). doi:10.1089/neur.2021.0061. PubMed PMID: 35403104; PubMed Central PMCID: PMC8985540.",
+    "pmid": "35403104",
+    "pmcid": "PMC8985540"
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.3389/fphys.2022.795303",
+    "title": "Representing Normal and Abnormal Physiology as Routes of Flow in ApiNATOMY.",
+    "citation": "de Bono B, Gillespie T, Surles-Zeigler MC, Kokash N, Grethe JS, Martone M. Representing Normal and Abnormal Physiology as Routes of Flow in ApiNATOMY. Frontiers in Physiology. 2022 Apr;13. doi:10.3389/fphys.2022.795303. PubMed PMID: 35547570; PubMed Central PMCID: PMC9083405.",
+    "pmid": "35547570",
+    "pmcid": "PMC9083405"
+  },
+  {
+    "year": 2022,
+    "type": "preprint",
+    "doi": "10.17504/protocols.io.4r3l2o7k3v1y/v1",
+    "title": "Mouse Heart Perfusion - Ultrastructural Analysis (Using Karnovsky&#39;s Fixative) v1",
+    "citation": "Ellisman M, Bushong E, Kim KY, Martone M. Mouse Heart Perfusion - Ultrastructural Analysis (Using Karnovsky&#39;s Fixative) v1 [Preprint]. Preprint; 2022. doi:10.17504/protocols.io.4r3l2o7k3v1y/v1."
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-022-09566-7",
+    "title": "The Neuron Phenotype Ontology: A FAIR Approach to Proposing and Classifying Neuronal Types",
+    "citation": "Gillespie TH, Tripathy SJ, Sy MF, Martone ME, Hill SL. The Neuron Phenotype Ontology: A FAIR Approach to Proposing and Classifying Neuronal Types. Neuroinformatics. 2022 Mar;20(3):793-809. doi:10.1007/s12021-022-09566-7. PubMed PMID: 35267146; PubMed Central PMCID: PMC9547803.",
+    "pmid": "35267146",
+    "pmcid": "PMC9547803"
+  },
+  {
+    "year": 2022,
+    "type": "preprint",
+    "doi": "10.1101/2022.10.26.513573",
+    "title": "The BRAIN Initiative Cell Census Network Data Ecosystem: A User’s Guide",
+    "citation": "Hawrylycz MJ, Martone ME, Hof PR, Lein ES, Regev A, Ascoli GAA, et al. The BRAIN Initiative Cell Census Network Data Ecosystem: A User’s Guide [Preprint]. Preprint; 2022. doi:10.1101/2022.10.26.513573."
+  },
+  {
+    "year": 2022,
+    "type": "preprint",
+    "doi": "10.1101/2022.09.15.508198",
+    "title": "ReproTox-KG: Toxicology Knowledge Graph for Structural Birth Defects",
+    "citation": "JE E, DJB C, Z X, GB M, V U, TM A, et al. ReproTox-KG: Toxicology Knowledge Graph for Structural Birth Defects [Preprint]. Preprint; 2022. doi:10.1101/2022.09.15.508198."
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.12688/f1000research.108008.2",
+    "title": "The Neuroimaging Data Model Linear Regression Tool (nidm_linreg): PyNIDM Project [version 2; peer review: 1 approved with reservations, 1 not approved]",
+    "citation": "Kumar A, Crowley A, Queder N, Poline J, Ghosh SS, Kennedy D, et al. The Neuroimaging Data Model Linear Regression Tool (nidm_linreg): PyNIDM Project [version 2; peer review: 1 approved with reservations, 1 not approved]. 2022 Jul. doi:10.12688/f1000research.108008.2. PubMed PMID: 39185142; PubMed Central PMCID: PMC11344200.",
+    "pmid": "39185142",
+    "pmcid": "PMC11344200"
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.12688/f1000research.108008.1",
+    "title": "The Neuroimaging Data Model Linear Regression Tool (nidm_linreg): PyNIDM Project",
+    "citation": "Kumar A, Crowley A, Queder N, Poline J, Ghosh SS, Kennedy D, et al. The Neuroimaging Data Model Linear Regression Tool (nidm_linreg): PyNIDM Project. F1000Research. 2022 Feb;11:228. doi:10.12688/f1000research.108008.1."
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1093/gigascience/giac060",
+    "title": "A decade of GigaScience: the importance of community organizations for open and FAIR efforts in neuroinformatics",
+    "citation": "Martone ME. A decade of <i>GigaScience</i>: the importance of community organizations for open and FAIR efforts in neuroinformatics. GigaScience. 2022;11. doi:10.1093/gigascience/giac060. PubMed PMID: 35701370; PubMed Central PMCID: PMC9197677.",
+    "pmid": "35701370",
+    "pmcid": "PMC9197677"
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1162/99608f92.44975b62",
+    "title": "Changing the Culture on Data Management and Sharing: Overview and Highlights from a Workshop Held by the National Academies of Sciences, Engineering, and Medicine",
+    "citation": "Martone ME, Nakamura R. Changing the Culture on Data Management and Sharing: Overview and Highlights from a Workshop Held by the National Academies of Sciences, Engineering, and Medicine. Harvard Data Science Review. 2022 Jul;4(3). doi:10.1162/99608f92.44975b62."
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.2196/37324",
+    "title": "Establishing Institutional Scores With the Rigor and Transparency Index: Large-scale Analysis of Scientific Reporting Quality",
+    "citation": "Menke J, Eckmann P, Ozyurt IB, Roelandse M, Anderson N, Grethe J, et al. Establishing Institutional Scores With the Rigor and Transparency Index: Large-scale Analysis of Scientific Reporting Quality. Journal of Medical Internet Research. 2022 Jun;24(6):e37324. doi:10.2196/37324. PubMed PMID: 35759334; PubMed Central PMCID: PMC9274430.",
+    "pmid": "35759334",
+    "pmcid": "PMC9274430"
+  },
+  {
+    "year": 2022,
+    "type": "preprint",
+    "doi": "10.2196/preprints.37324",
+    "title": "Establishing Institutional Scores With the Rigor and Transparency Index: Large-scale Analysis of Scientific Reporting Quality (Preprint)",
+    "citation": "Menke J, Eckmann P, Ozyurt IB, Roelandse M, Anderson N, Grethe J, et al. Establishing Institutional Scores With the Rigor and Transparency Index: Large-scale Analysis of Scientific Reporting Quality (Preprint) [Preprint]. Preprint; 2022. doi:10.2196/preprints.37324."
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1016/j.isci.2022.104581",
+    "title": "Transcriptional regulatory networks of circulating immune cells in type 1 diabetes: A community knowledgebase.",
+    "citation": "Ochsner SA, Pillich RT, Rawool D, Grethe JS, McKenna NJ. Transcriptional regulatory networks of circulating immune cells in type 1 diabetes: A community knowledgebase. iScience. 2022 Jul;25(7):104581. doi:10.1016/j.isci.2022.104581. PubMed PMID: 35832893; PubMed Central PMCID: PMC9272393.",
+    "pmid": "35832893",
+    "pmcid": "PMC9272393"
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-021-09557-0",
+    "title": "Is Neuroscience FAIR? A Call for Collaborative Standardisation of Neuroscience Data.",
+    "citation": "Poline JB, Kennedy DN, Sommer FT, Ascoli GA, Van Essen DC, Ferguson AR, et al. Is Neuroscience FAIR? A Call for Collaborative Standardisation of Neuroscience Data. Neuroinformatics. 2022 Jan;20(2):507-512. doi:10.1007/s12021-021-09557-0. PubMed PMID: 35061216; PubMed Central PMCID: PMC9300762.",
+    "pmid": "35061216",
+    "pmcid": "PMC9300762"
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.3389/fninf.2022.819198",
+    "title": "Extending and using anatomical vocabularies in the stimulating peripheral activity to relieve conditions project.",
+    "citation": "Surles-Zeigler MC, Sincomb T, Gillespie TH, de Bono B, Bresnahan J, Mawe GM, et al. Extending and using anatomical vocabularies in the stimulating peripheral activity to relieve conditions project. Frontiers in Neuroinformatics. 2022 Aug;16. doi:10.3389/fninf.2022.819198. PubMed PMID: 36090663; PubMed Central PMCID: PMC9449460.",
+    "pmid": "36090663",
+    "pmcid": "PMC9449460"
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1162/99608f92.b9e4ceec",
+    "title": "Conversation with Dr. Lawrence Tabak and Dr. Lyric Jorgenson on the NIH Perspective on Data Sharing and Management",
+    "citation": "Tabak L, Jorgenson L, Martone M, Nakamura R. Conversation with Dr. Lawrence Tabak and Dr. Lyric Jorgenson on the NIH Perspective on Data Sharing and Management. Harvard Data Science Review. 2022 Jul. doi:10.1162/99608f92.b9e4ceec."
+  },
+  {
+    "year": 2022,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-021-09533-8",
+    "title": "Promoting FAIR Data Through Community-driven Agile Design: the Open Data Commons for Spinal Cord Injury (odc-sci.org)",
+    "citation": "Torres-Espín A, Almeida CA, Chou A, Huie JR, Chiu M, Vavrek R, et al. Promoting FAIR Data Through Community-driven Agile Design: the Open Data Commons for Spinal Cord Injury (odc-sci.org). Neuroinformatics. 2021 Aug;20(1):203-219. doi:10.1007/s12021-021-09533-8. PubMed PMID: 34347243; PubMed Central PMCID: PMC9537193.",
+    "pmid": "34347243",
+    "pmcid": "PMC9537193"
+  },
+  {
+    "year": 2021,
+    "type": "preprint",
+    "doi": "10.1101/2021.03.15.435178",
+    "title": "Open Data Commons for Preclinical Traumatic Brain Injury Research: Empowering Data Sharing and Big Data Analytics",
+    "citation": "A C, AT E, J H, K K, S L, A N, et al. Open Data Commons for Preclinical Traumatic Brain Injury Research: Empowering Data Sharing and Big Data Analytics [Preprint]. Preprint; 2021. doi:10.1101/2021.03.15.435178."
+  },
+  {
+    "year": 2021,
+    "type": "preprint",
+    "doi": "10.1101/2021.02.10.430563",
+    "title": "SPARC Data Structure: Rationale and Design of a FAIR Standard for Biomedical Research Data",
+    "citation": "Bandrowski A, Grethe JS, Pilko A, Gillespie T, Pine G, Patel B, et al. SPARC Data Structure: Rationale and Design of a FAIR Standard for Biomedical Research Data [Preprint]. Preprint; 2021. doi:10.1101/2021.02.10.430563."
+  },
+  {
+    "year": 2021,
+    "type": "journal-article",
+    "doi": "10.1371/journal.pcbi.1008967",
+    "title": "Antibody Watch: Text mining antibody specificity from the literature",
+    "citation": "Hsu CN, Chang CH, Poopradubsil T, Lo A, William KA, Lin KW, et al. Antibody Watch: Text mining antibody specificity from the literature. PLOS Computational Biology. 2021 May;17(5):e1008967. doi:10.1371/journal.pcbi.1008967. PubMed PMID: 34043624; PubMed Central PMCID: PMC8189493.",
+    "pmid": "34043624",
+    "pmcid": "PMC8189493"
+  },
+  {
+    "year": 2021,
+    "type": "journal-article",
+    "doi": "10.1371/journal.pone.0253538",
+    "title": "A tool for assessing alignment of biomedical data repositories with open, FAIR, citation and trustworthy principles",
+    "citation": "Murphy F, Bar-Sinai M, Martone ME. A tool for assessing alignment of biomedical data repositories with open, FAIR, citation and trustworthy principles. PLOS ONE. 2021 Jul;16(7):e0253538. doi:10.1371/journal.pone.0253538. PubMed PMID: 34242248; PubMed Central PMCID: PMC8270168.",
+    "pmid": "34242248",
+    "pmcid": "PMC8270168"
+  },
+  {
+    "year": 2021,
+    "type": "preprint",
+    "doi": "10.1101/2021.01.19.427362",
+    "title": "A tool for assessing alignment of biomedical data repositories with open, FAIR, citation and trustworthy principles",
+    "citation": "Murphy F, Bar-Sinai M, Martone ME. A tool for assessing alignment of biomedical data repositories with open, FAIR, citation and trustworthy principles [Preprint]. Preprint; 2021. doi:10.1101/2021.01.19.427362."
+  },
+  {
+    "year": 2021,
+    "type": "journal-article",
+    "doi": "10.3389/fphys.2021.693735",
+    "title": "The SPARC DRC: Building a Resource for the Autonomic Nervous System Community.",
+    "citation": "Osanlouy M, Bandrowski A, de Bono B, Brooks D, Cassarà AM, Christie R, et al. The SPARC DRC: Building a Resource for the Autonomic Nervous System Community. Frontiers in Physiology. 2021 Jun;12. doi:10.3389/fphys.2021.693735. PubMed PMID: 34248680; PubMed Central PMCID: PMC8265045.",
+    "pmid": "34248680",
+    "pmcid": "PMC8265045"
+  },
+  {
+    "year": 2021,
+    "type": "preprint",
+    "doi": "10.1101/2021.04.01.438136",
+    "title": "The SPARC DRC: Building a resource for the autonomic nervous system community",
+    "citation": "Osanlouy M, Bandrowski A, Bono BD, Brooks D, Cassarà AM, Christie R, et al. The SPARC DRC: Building a resource for the autonomic nervous system community [Preprint]. Preprint; 2021. doi:10.1101/2021.04.01.438136."
+  },
+  {
+    "year": 2021,
+    "type": "preprint",
+    "doi": "10.1101/2021.11.15.467961",
+    "title": "Extending and using anatomical vocabularies in the Stimulating Peripheral Activity to Relieve Conditions (SPARC) program",
+    "citation": "Surles-Zeigler MC, Sincomb T, Gillespie TH, Bono BD, Bresnahan J, Mawe GM, et al. Extending and using anatomical vocabularies in the Stimulating Peripheral Activity to Relieve Conditions (SPARC) program [Preprint]. Preprint; 2021. doi:10.1101/2021.11.15.467961."
+  },
+  {
+    "year": 2020,
+    "type": "journal-article",
+    "doi": "10.1101/2020.10.19.343129",
+    "title": "A multimodal cell census and atlas of the mammalian primary motor cortex",
+    "citation": "Adkins RS, Aldridge AI, Allen S, Ament SA, An X, Armand E, et al. A multimodal cell census and atlas of the mammalian primary motor cortex. 2020 Oct. doi:10.1101/2020.10.19.343129."
+  },
+  {
+    "year": 2020,
+    "type": "conference-paper",
+    "doi": null,
+    "title": "An approach to represent and transform application-specific constraints for an intrusion detection system",
+    "citation": "Cervantes J, García‐Lamont F, Rodríguez-Mazahua L, López‐Chau A. A comprehensive survey on support vector machine classification: Applications, challenges and trends. In: Neurocomputing. 2020. doi:10.1016/j.neucom.2019.10.118."
+  },
+  {
+    "year": 2020,
+    "type": "conference-paper",
+    "doi": null,
+    "title": "LL(k) optimization of a network protocol parser generator",
+    "citation": "Chen C, Qin C, Qiu H, Tarroni G, Duan J, Bai W, et al. Deep Learning for Cardiac Image Segmentation: A Review. In: Frontiers in Cardiovascular Medicine. 2020. doi:10.3389/fcvm.2020.00025."
+  },
+  {
+    "year": 2020,
+    "type": "journal-article",
+    "doi": "10.1089/neu.2019.6674",
+    "title": "FAIR SCI Ahead: The Evolution of the Open Data Commons for Pre-Clinical Spinal Cord Injury Research",
+    "citation": "Fouad K, Bixby JL, Callahan A, Grethe JS, Jakeman LB, Lemmon VP, et al. FAIR SCI Ahead: The Evolution of the Open Data Commons for Pre-Clinical Spinal Cord Injury Research. Journal of Neurotrauma. 2020 Mar;37(6):831-838. doi:10.1089/neu.2019.6674. PubMed PMID: 31608767; PubMed Central PMCID: PMC7071068.",
+    "pmid": "31608767",
+    "pmcid": "PMC7071068"
+  },
+  {
+    "year": 2020,
+    "type": "preprint",
+    "doi": "10.1101/2020.09.01.278879",
+    "title": "The Neuron Phenotype Ontology: A FAIR Approach to Proposing and Classifying Neuronal Types",
+    "citation": "Gillespie TH, Tripathy S, Sy MF, Martone ME, Hill SL. The Neuron Phenotype Ontology: A FAIR Approach to Proposing and Classifying Neuronal Types [Preprint]. Preprint; 2020. doi:10.1101/2020.09.01.278879."
+  },
+  {
+    "year": 2020,
+    "type": "journal-article",
+    "doi": "10.1109/mcse.2019.2952838",
+    "title": "Comparing the Use of Research Resource Identifiers and Natural Language Processing for Citation of Databases, Software, and Other Digital Artifacts",
+    "citation": "Hsu CN, Bandrowski AE, Gillespie TH, Udell J, Lin KW, Ozyurt IB, et al. Comparing the Use of Research Resource Identifiers and Natural Language Processing for Citation of Databases, Software, and Other Digital Artifacts. Computing in Science &amp; Engineering. 2020 Mar;22(2):22-32. doi:10.1109/mcse.2019.2952838. PubMed PMID: 40791297; PubMed Central PMCID: PMC12338378.",
+    "pmid": "40791297",
+    "pmcid": "PMC12338378"
+  },
+  {
+    "year": 2020,
+    "type": "journal-article",
+    "doi": null,
+    "title": "Antibody Watch: Text Mining Antibody Specificity from the Literature",
+    "citation": "Hsu CN, Chang CH, Poopradubsil T, Lo A, William KA, Lin KW, et al. Antibody Watch: Text Mining Antibody Specificity from the Literature. 2020 Aug."
+  },
+  {
+    "year": 2020,
+    "type": "journal-article",
+    "doi": "10.1016/j.isci.2020.101698",
+    "title": "The Rigor and Transparency Index Quality Metric for Assessing Biological and Medical Science Methods",
+    "citation": "Menke J, Roelandse M, Ozyurt B, Martone M, Bandrowski A. The Rigor and Transparency Index Quality Metric for Assessing Biological and Medical Science Methods. iScience. 2020 Nov;23(11):101698. doi:10.1016/j.isci.2020.101698. PubMed PMID: 33196023; PubMed Central PMCID: PMC7644557.",
+    "pmid": "33196023",
+    "pmcid": "PMC7644557"
+  },
+  {
+    "year": 2020,
+    "type": "preprint",
+    "doi": "10.1101/2020.01.15.908111",
+    "title": "Rigor and Transparency Index, a new metric of quality for assessing biological and medical science methods",
+    "citation": "Menke J, Roelandse M, Ozyurt B, Martone M, Bandrowski A. Rigor and Transparency Index, a new metric of quality for assessing biological and medical science methods [Preprint]. Preprint; 2020. doi:10.1101/2020.01.15.908111."
+  },
+  {
+    "year": 2020,
+    "type": "journal-article",
+    "doi": "10.1093/database/baz137",
+    "title": "Bio-AnswerFinder: A system to find answers to questions from biomedical texts",
+    "citation": "Ozyurt IB, Bandrowski A, Grethe JS. Bio-AnswerFinder: a system to find answers to questions from biomedical texts. Database. 2020 Jan;2020. doi:10.1093/database/baz137. PubMed PMID: 31925435; PubMed Central PMCID: PMC7053013.",
+    "pmid": "31925435",
+    "pmcid": "PMC7053013"
+  },
+  {
+    "year": 2020,
+    "type": "preprint",
+    "doi": "10.1101/2020.05.20.107003",
+    "title": "On the effectiveness of small, discriminatively pre-trained language representation models for biomedical text mining",
+    "citation": "Ozyurt IB. On the effectiveness of small, discriminatively pre-trained language representation models for biomedical text mining [Preprint]. Preprint; 2020. doi:10.1101/2020.05.20.107003."
+  },
+  {
+    "year": 2020,
+    "type": "journal-article",
+    "doi": null,
+    "title": "Nine Best Practices for Research Software Registries and Repositories: A\n  Concise Guide",
+    "citation": "Registries TFOBPFS, : N, Monteil A, Gonzalez-Beltran A, Ioannidis A, Allen A, et al. Nine Best Practices for Research Software Registries and Repositories: A Concise Guide. 2020 Dec."
+  },
+  {
+    "year": 2019,
+    "type": "preprint",
+    "doi": "10.31219/osf.io/3rt9b",
+    "title": "A standards organization for Open and FAIR neuroscience: the International Neuroinformatics Coordinating Facility",
+    "citation": "Abrams M, Bjaalie JG, Das S, Egan GF, Ghosh SS, Goscinski WJ, et al. A standards organization for Open and FAIR neuroscience: the International Neuroinformatics Coordinating Facility [Preprint]. Preprint; 2019. doi:10.31219/osf.io/3rt9b."
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": "10.7554/elife.41676",
+    "title": "Incidences of problematic cell lines are lower in papers that use RRIDs to identify cell lines",
+    "citation": "Babic Z, Capes-Davis A, Martone ME, Bairoch A, Ozyurt IB, Gillespie TH, et al. Incidences of problematic cell lines are lower in papers that use RRIDs to identify cell lines. eLife. 2019 Jan;8. doi:10.7554/elife.41676. PubMed PMID: 30693867; PubMed Central PMCID: PMC6351100.",
+    "pmid": "30693867",
+    "pmcid": "PMC6351100"
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": "10.5281/zenodo.3241632",
+    "title": "Comparing the Use of Research Resource Identifiers and Natural Language Processing for Citation of Databases, Software and Other Digital Artifacts",
+    "citation": "Chun-Nan Hsu, Anita Bandrowski, Thomas H Gillespie, Jon Udell, Ko-Wei Lin, Ibrahim Burak Ozyurt, et al. Comparing the Use of Research Resource Identifiers and Natural Language Processing for Citation of Databases, Software and Other Digital Artifacts. Computing in Science and Engineering. 2019. doi:10.5281/zenodo.3241632."
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": "10.1038/s41597-019-0031-8",
+    "title": "A data citation roadmap for scholarly data repositories",
+    "citation": "Fenner M, Crosas M, Grethe JS, Kennedy D, Hermjakob H, Rocca-Serra P, et al. A data citation roadmap for scholarly data repositories. Scientific Data. 2019 Apr;6(1). doi:10.1038/s41597-019-0031-8. PubMed PMID: 30971690; PubMed Central PMCID: PMC6472386.",
+    "pmid": "30971690",
+    "pmcid": "PMC6472386"
+  },
+  {
+    "year": 2019,
+    "type": "preprint",
+    "doi": null,
+    "title": "Software Citation Implementation Challenges",
+    "citation": "Himmelstein D, Rubinetti V, Slochower DR, Hu D, Malladi VS, Greene CS, et al. Open collaborative writing with Manubot [Preprint]. PLoS Computational Biology; 2019. doi:10.1371/journal.pcbi.1007128."
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": "10.12688/f1000research.18357.1",
+    "title": "Advancing the international data science workforce through shared training and education [version 1; referees: awaiting peer review]",
+    "citation": "Horn JV, Abe S, Ambite JL, Attwood TK, Beard N, Bellis L, et al. Advancing the international data science workforce through shared training and education [version 1; referees: awaiting peer review]. 2019 Mar. doi:10.12688/f1000research.18357.1."
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": null,
+    "title": "MON-176 Making Informed Decisions on the Selection of Antibodies Using dkNET (NIDDK Information Network)",
+    "citation": "K L, A B, T G, J G, S H, C H, et al. MON-176 Making Informed Decisions on the Selection of Antibodies Using dkNET (NIDDK Information Network). Journal of the Endocrine Society. 2019 Apr."
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": "10.3389/fninf.2019.00001",
+    "title": "Everything matters: The repronim perspective on reproducible neuroimaging",
+    "citation": "Kennedy DN, Abraham SA, Bates JF, Crowley A, Ghosh S, Gillespie T, et al. Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging. Frontiers in Neuroinformatics. 2019 Feb;13. doi:10.3389/fninf.2019.00001. PubMed PMID: 30792636; PubMed Central PMCID: PMC6374302.",
+    "pmid": "30792636",
+    "pmcid": "PMC6374302"
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": "10.1080/0361526x.2019.1587699",
+    "title": "The Scholarly Commons",
+    "citation": "Martone M, Aghazarian M. The Scholarly Commons. The Serials Librarian. 2019 May;76(1-4):220-224. doi:10.1080/0361526x.2019.1587699."
+  },
+  {
+    "year": 2019,
+    "type": "conference-paper",
+    "doi": "10.1109/escience.2019.00072",
+    "title": "Iterative document retrieval via deep learning approaches for biomedical question answering",
+    "citation": "Ozyurt IB, Grethe J. Iterative Document Retrieval via Deep Learning Approaches for Biomedical Question Answering. In: 2019 15th International Conference on eScience (eScience). 2019 Sep. doi:10.1109/escience.2019.00072."
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": "10.1002/brb3.1141",
+    "title": "Improving transparency and scientific rigor in academic publishing",
+    "citation": "Prager EM, Chambers KE, Plotkin JL, McArthur DL, Bandrowski AE, Bansal N, et al. Improving transparency and scientific rigor in academic publishing. Brain and Behavior. 2018 Dec;9(1). doi:10.1002/brb3.1141. PubMed PMID: 30506879; PubMed Central PMCID: PMC6346653.",
+    "pmid": "30506879",
+    "pmcid": "PMC6346653"
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": "10.1002/cnr2.1150",
+    "title": "Improving transparency and scientific rigor in academic publishing",
+    "citation": "Prager EM, Chambers KE, Plotkin JL, McArthur DL, Bandrowski AE, Bansal N, et al. Improving transparency and scientific rigor in academic publishing. Cancer Reports. 2018 Dec;2(1). doi:10.1002/cnr2.1150. PubMed PMID: 32721132; PubMed Central PMCID: PMC7941525.",
+    "pmid": "32721132",
+    "pmcid": "PMC7941525"
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": "10.1002/jnr.24340",
+    "title": "Improving transparency and scientific rigor in academic publishing",
+    "citation": "Prager EM, Chambers KE, Plotkin JL, McArthur DL, Bandrowski AE, Bansal N, et al. Improving transparency and scientific rigor in academic publishing. Journal of Neuroscience Research. 2018 Dec;97(4):377-390. doi:10.1002/jnr.24340. PubMed PMID: 30506706; PubMed Central PMCID: PMC12990824.",
+    "pmid": "30506706",
+    "pmcid": "PMC12990824"
+  },
+  {
+    "year": 2019,
+    "type": "book",
+    "doi": "10.1007/978-3-030-20074-9_5",
+    "title": "Generating a real-time constraint engine for network protocols",
+    "citation": "Rakha MS, Imam FT, Dean TR. Generating a Real-Time Constraint Engine for Network Protocols. Lecture Notes in Computer Science. 2019. doi:10.1007/978-3-030-20074-9_5."
+  },
+  {
+    "year": 2019,
+    "type": "journal-article",
+    "doi": "10.1038/s41597-019-0009-6",
+    "title": "Erratum: Addendum: The FAIR Guiding Principles for scientific data management and stewardship (Scientific data (2016) 3 (160018))",
+    "citation": "Wilkinson MD, Dumontier M, Jan Aalbersberg I, Appleton G, Axton M, Baak A, et al. Addendum: The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. 2019 Mar;6(1). doi:10.1038/s41597-019-0009-6. PubMed PMID: 30890711; PubMed Central PMCID: PMC6427092.",
+    "pmid": "30890711",
+    "pmcid": "PMC6427092"
+  },
+  {
+    "year": 2018,
+    "type": "journal-article",
+    "doi": "10.5281/zenodo.1411569",
+    "title": "Research Resource Identifiers For Key Biological Resources",
+    "citation": "AE Bandrowski, TH Gillespie, ME Martone. Research Resource IDentifiers for Key Biological Resources. 2018. doi:10.5281/zenodo.1411569."
+  },
+  {
+    "year": 2018,
+    "type": "journal-article",
+    "doi": "10.1093/jamia/ocx121",
+    "title": "DataMed - an open source discovery index for finding biomedical datasets",
+    "citation": "Chen X, Gururaj AE, Ozyurt B, Liu R, Soysal E, Cohen T, et al. DataMed – an open source discovery index for finding biomedical datasets. Journal of the American Medical Informatics Association. 2018 Jan;25(3):300-308. doi:10.1093/jamia/ocx121. PubMed PMID: 29346583; PubMed Central PMCID: PMC7378878.",
+    "pmid": "29346583",
+    "pmcid": "PMC7378878"
+  },
+  {
+    "year": 2018,
+    "type": "preprint",
+    "doi": "10.31219/osf.io/u78a6",
+    "title": "Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging",
+    "citation": "Kennedy DN, Ghosh SS, Gillespie T, Goncalves M, Grethe JS, Halchenko YO, et al. Everything Matters: The ReproNim Perspective on Reproducible Neuroimaging [Preprint]. Preprint; 2018. doi:10.31219/osf.io/u78a6."
+  },
+  {
+    "year": 2018,
+    "type": "journal-article",
+    "doi": "10.1037/amp0000242",
+    "title": "Data sharing in psychology.",
+    "citation": "Martone ME, Garcia-Castro A, VandenBos GR. Data sharing in psychology.. American Psychologist. 2018 Feb;73(2):111-125. doi:10.1037/amp0000242. PubMed PMID: 29481105; PubMed Central PMCID: PMC5920518.",
+    "pmid": "29481105",
+    "pmcid": "PMC5920518"
+  },
+  {
+    "year": 2018,
+    "type": "journal-article",
+    "doi": "10.1093/database/bay130",
+    "title": "Foundry: a message-oriented, horizontally scalable ETL system for scientific data integration and enhancement",
+    "citation": "Ozyurt IB, Grethe JS. Foundry: a message-oriented, horizontally scalable ETL system for scientific data integration and enhancement. Database. 2018 Jan;2018. doi:10.1093/database/bay130. PubMed PMID: 30576493; PubMed Central PMCID: PMC6301337.",
+    "pmid": "30576493",
+    "pmcid": "PMC6301337"
+  },
+  {
+    "year": 2018,
+    "type": "journal-article",
+    "doi": "10.1629/uksg.418",
+    "title": "Community feedback on scholarly content: why it is important and why it should be preserved",
+    "citation": "Staines H, Martone ME. Community feedback on scholarly content: why it is important and why it should be preserved. Insights the UKSG journal. 2018;31. doi:10.1629/uksg.418."
+  },
+  {
+    "year": 2018,
+    "type": "journal-article",
+    "doi": "10.1038/sdata.2018.29",
+    "title": "Uniform resolution of compact identifiers for biomedical data",
+    "citation": "Wimalaratne SM, Juty N, Kunze J, Janée G, McMurry JA, Beard N, et al. Uniform resolution of compact identifiers for biomedical data. Scientific Data. 2018 May;5(1). doi:10.1038/sdata.2018.29. PubMed PMID: 29737976; PubMed Central PMCID: PMC5944906.",
+    "pmid": "29737976",
+    "pmcid": "PMC5944906"
+  },
+  {
+    "year": 2017,
+    "type": "journal-article",
+    "doi": null,
+    "title": "26th Annual Computational Neuroscience Meeting (CNS*2017): Part 3",
+    "citation": "A N, A S, R M, A PC, G H, T MS, et al. 26th Annual Computational Neuroscience Meeting (CNS*2017): Part 3. BMC neuroscience. 2017 Jan."
+  },
+  {
+    "year": 2017,
+    "type": "journal-article",
+    "doi": "10.1016/j.expneurol.2017.05.012",
+    "title": "Developing a data sharing community for spinal cord injury research",
+    "citation": "Callahan A, Anderson KD, Beattie MS, Bixby JL, Ferguson AR, Fouad K, et al. Developing a data sharing community for spinal cord injury research. Experimental Neurology. 2017 Sep;295:135-143. doi:10.1016/j.expneurol.2017.05.012. PubMed PMID: 28576567; PubMed Central PMCID: PMC6448396.",
+    "pmid": "28576567",
+    "pmcid": "PMC6448396"
+  },
+  {
+    "year": 2017,
+    "type": "preprint",
+    "doi": "10.1101/100784",
+    "title": "A data citation roadmap for scientific publishers",
+    "citation": "Cousijn H, Kenall A, Ganley E, Harrison M, Kernohan D, Lemberger T, et al. A data citation roadmap for scientific publishers [Preprint]. Preprint; 2017. doi:10.1101/100784."
+  },
+  {
+    "year": 2017,
+    "type": "conference-paper",
+    "doi": "10.1145/3123779.3123812",
+    "title": "A constraint-based intrusion detection system",
+    "citation": "Hasan MS, Dean T, Imam FT, Garcia F, Leblanc SP, Zulkernine M. A Constraint-based intrusion detection system. In: Proceedings of the Fifth European Conference on the Engineering of Computer-Based Systems. 2017 Aug. doi:10.1145/3123779.3123812."
+  },
+  {
+    "year": 2017,
+    "type": "journal-article",
+    "doi": "10.7287/peerj.preprints.2688v2",
+    "title": "Assessing value of biomedical digital repositories",
+    "citation": "Hsu CN, Bandrowski A, Grethe JS, Martone ME. Assessing value of biomedical digital repositories. 2017 May. doi:10.7287/peerj.preprints.2688v2."
+  },
+  {
+    "year": 2017,
+    "type": "journal-article",
+    "doi": "10.7287/peerj.preprints.2688",
+    "title": "Assessing value of biomedical digital repositories",
+    "citation": "Hsu CN, Bandrowski A, Grethe JS, Martone ME. Assessing value of biomedical digital repositories. 2017 Nov. doi:10.7287/peerj.preprints.2688v3."
+  },
+  {
+    "year": 2017,
+    "type": "journal-article",
+    "doi": "10.7287/peerj.preprints.2688v1",
+    "title": "Assessing value of biomedical digital repositories",
+    "citation": "Hsu CN, Bandrowski A, Grethe JS, Martone M. Assessing value of biomedical digital repositories. 2017 Jan. doi:10.7287/peerj.preprints.2688v1."
+  },
+  {
+    "year": 2017,
+    "type": "journal-article",
+    "doi": "10.1371/journal.pbio.2001414",
+    "title": "Identifiers for the 21st century: How to design, provision, and reuse persistent identifiers to maximize utility and impact of life science data",
+    "citation": "McMurry JA, Juty N, Blomberg N, Burdett T, Conlin T, Conte N, et al. Identifiers for the 21st century: How to design, provision, and reuse persistent identifiers to maximize utility and impact of life science data. PLOS Biology. 2017 Jun;15(6):e2001414. doi:10.1371/journal.pbio.2001414. PubMed PMID: 28662064; PubMed Central PMCID: PMC5490878.",
+    "pmid": "28662064",
+    "pmcid": "PMC5490878"
+  },
+  {
+    "year": 2017,
+    "type": "journal-article",
+    "doi": "10.1038/ng.3864",
+    "title": "Finding useful data across multiple biomedical data repositories using DataMed",
+    "citation": "Ohno-Machado L, Sansone SA, Alter G, Fore I, Grethe J, Xu H, et al. Finding useful data across multiple biomedical data repositories using DataMed. Nature Genetics. 2017 May;49(6):816-819. doi:10.1038/ng.3864. PubMed PMID: 28546571; PubMed Central PMCID: PMC6460922.",
+    "pmid": "28546571",
+    "pmcid": "PMC6460922"
+  },
+  {
+    "year": 2017,
+    "type": "journal-article",
+    "doi": "10.1038/sdata.2017.59",
+    "title": "DATS, the data tag suite to enable discoverability of datasets.",
+    "citation": "Sansone SA, Gonzalez-Beltran A, Rocca-Serra P, Alter G, Grethe JS, Xu H, et al. DATS, the data tag suite to enable discoverability of datasets. Scientific Data. 2017 Jun;4(1). doi:10.1038/sdata.2017.59. PubMed PMID: 28585923; PubMed Central PMCID: PMC5460592.",
+    "pmid": "28585923",
+    "pmcid": "PMC5460592"
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": null,
+    "title": "RRIDs: A Simple Step toward Improving Reproducibility through Rigor and Transparency of Experimental Methods.",
+    "citation": "Bandrowski A, Martone ME. RRIDs: A Simple Step toward Improving Reproducibility through Rigor and Transparency of Experimental Methods. Neuron. 2016;90(3):434-436. doi:10.1016/j.neuron.2016.04.030."
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": "10.1002/brb3.417",
+    "title": "The Resource Identification Initiative: A cultural shift in publishing",
+    "citation": "Bandrowski A, Brush M, Grethe JS, Haendel MA, Kennedy DN, Hill S, et al. The Resource Identification Initiative: a cultural shift in publishing. Brain and Behavior. 2015 Dec;6(1). doi:10.1002/brb3.417. PubMed PMID: 27110440; PubMed Central PMCID: PMC4834942.",
+    "pmid": "27110440",
+    "pmcid": "PMC4834942"
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": "10.1002/cne.23913",
+    "title": "The Resource Identification Initiative: A cultural shift in publishing.",
+    "citation": "Bandrowski A, Brush M, Grethe JS, Haendel MA, Kennedy DN, Hill S, et al. The Resource Identification Initiative: A cultural shift in publishing. Journal of Comparative Neurology. 2015 Nov;524(1):8-22. doi:10.1002/cne.23913. PubMed PMID: 26599696; PubMed Central PMCID: PMC4684178.",
+    "pmid": "26599696",
+    "pmcid": "PMC4684178"
+  },
+  {
+    "year": 2016,
+    "type": "preprint",
+    "doi": "10.1101/097196",
+    "title": "A Data Citation Roadmap for Scholarly Data Repositories",
+    "citation": "Fenner M, Crosas M, Grethe J, Kennedy D, Hermjakob H, Rocca-Serra P, et al. A Data Citation Roadmap for Scholarly Data Repositories [Preprint]. Preprint; 2016. doi:10.1101/097196."
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": "10.26913/70302016.0109.0007",
+    "title": "Interdyscyplinarne perspektywy rozwoju, integracji i zastosowań ontologii poznawczych",
+    "citation": "Hastings J, Frishkoff G, Smith B, Jensen M, Poldrack R, Lomax J, et al. Interdyscyplinarne perspektywy rozwoju, integracji i zastosowań ontologii poznawczych. AVANT. The Journal of the Philosophical-Interdisciplinary Vanguard. 2016;VII(3):101-117. doi:10.26913/70302016.0109.0007."
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": null,
+    "title": "Developing a Semantic Model to Describe Physical Activity Data.",
+    "citation": "Hyeoneui K, Jihoon K, Shenvi EC, Quach J, Sutjiadi B, Richardson A, et al. Developing a Semantic Model to Describe Physical Activity Data. Studies in health technology and informatics. 2016;225:447-51. doi:10.3233/978-1-61499-658-3-447."
+  },
+  {
+    "year": 2016,
+    "type": "conference-paper",
+    "doi": null,
+    "title": "Affordances in representing the behaviour of event-based systems",
+    "citation": "Imam FT, Dean T. Affordances in Representing the Behaviour of Event-Based Systems.. 2016."
+  },
+  {
+    "year": 2016,
+    "type": "conference-paper",
+    "doi": "10.1016/j.procs.2016.08.243",
+    "title": "Modelling Functional Behavior of Event-based Systems: A Practical Knowledge-based Approach",
+    "citation": "Imam FT, Dean TR. Modelling Functional Behavior of Event-based Systems: A Practical Knowledge-based Approach. In: Procedia Computer Science. 2016. doi:10.1016/j.procs.2016.08.243."
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": "10.3389/conf.fninf.2016.20.00063",
+    "title": "SciCrunch: A Cooperative And Collaborative Data, Information, And Resource Discovery Portal For Scientific Communities",
+    "citation": "Jeffrey G, Anita B, Michael C, Tom G, James G, Yueling L, et al. SciCrunch: A Cooperative And Collaborative Data, Information, And Resource Discovery Portal For Scientific Communities. Frontiers in Neuroinformatics. 2016;10. doi:10.3389/conf.fninf.2016.20.00063."
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": "10.1145/2963143",
+    "title": "The six pillars for building big data analytics ecosystems",
+    "citation": "Khalifa S, Elshater Y, Sundaravarathan K, Bhat A, Martin P, Imam F, et al. The Six Pillars for Building Big Data Analytics Ecosystems. ACM Computing Surveys. 2016 Aug;49(2):1-36. doi:10.1145/2963143."
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": "10.1371/journal.pone.0146300",
+    "title": "Resource Disambiguator for the Web: Extracting Biomedical Resources and Their Citations from the Scientific Literature",
+    "citation": "Ozyurt IB, Grethe JS, Martone ME, Bandrowski AE. Resource Disambiguator for the Web: Extracting Biomedical Resources and Their Citations from the Scientific Literature. PLOS ONE. 2016 Jan;11(1):e0146300. doi:10.1371/journal.pone.0146300. PubMed PMID: 26730820; PubMed Central PMCID: PMC5156472.",
+    "pmid": "26730820",
+    "pmcid": "PMC5156472"
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-015-9284-3",
+    "title": "The Resource Identification Initiative: A Cultural Shift in Publishing",
+    "citation": "RINL Resource Identification Initiative, Bandrowski A, Brush M, Grethe JS, Haendel MA, Kennedy DN, et al. The Resource Identification Initiative: A Cultural Shift in Publishing. Neuroinformatics. 2015 Nov;14(2):169-182. doi:10.1007/s12021-015-9284-3. PubMed PMID: 26589523; PubMed Central PMCID: PMC5072392.",
+    "pmid": "26589523",
+    "pmcid": "PMC5072392"
+  },
+  {
+    "year": 2016,
+    "type": "conference-paper",
+    "doi": null,
+    "title": "Cross-platform functional consistency validation for the event-driven systems: An ontology-based approach",
+    "citation": "Serin EAR, Nijveen H, Hilhorst HWM, Ligterink W. Learning from Co-expression Networks: Possibilities and Challenges. In: Frontiers in Plant Science. 2016. doi:10.3389/fpls.2016.00444."
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": null,
+    "title": "The FAIR Guiding Principles for scientific data management and stewardship.",
+    "citation": "Wilkinson MD, Dumontier M, Aalbersberg IJ, Appleton G, Axton M, Baak A, et al. The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. 2016;3(1):160018-160018. doi:10.1038/sdata.2016.18."
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": "10.1038/sdata.2016.18",
+    "title": "Comment: The FAIR Guiding Principles for scientific data management and stewardship",
+    "citation": "Wilkinson MD, Dumontier M, Aalbersberg IJ, Appleton G, Axton M, Baak A, et al. The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data. 2016 Mar;3(1). doi:10.1038/sdata.2016.18. PubMed PMID: 26978244; PubMed Central PMCID: PMC4792175.",
+    "pmid": "26978244",
+    "pmcid": "PMC4792175"
+  },
+  {
+    "year": 2016,
+    "type": "journal-article",
+    "doi": null,
+    "title": "Resource Disambiguator for the Web: Extracting Biomedical Resources and Their Citations from the Scientific Literature.",
+    "citation": "Özyurt İB, Grethe JS, Martone ME, Bandrowski A. Resource Disambiguator for the Web: Extracting Biomedical Resources and Their Citations from the Scientific Literature. PLoS ONE. 2016;11(1):e0146300-e0146300. doi:10.1371/journal.pone.0146300."
+  },
+  {
+    "year": 2015,
+    "type": "journal-article",
+    "doi": null,
+    "title": "The Resource Identification Initiative: A Cultural Shift in Publishing.",
+    "citation": "A B, M B, JS G, MA H, DN K, S H, et al. The Resource Identification Initiative: A Cultural Shift in Publishing.. 2015 Nov."
+  },
+  {
+    "year": 2015,
+    "type": "journal-article",
+    "doi": "10.12688/f1000research.6555.1",
+    "title": "The Resource Identification Initiative: A cultural shift in publishing",
+    "citation": "Bandrowski A, Brush M, Grethe JS, Haendel MA, Kennedy DN, Hill S, et al. The Resource Identification Initiative: A cultural shift in publishing. F1000Research. 2015 May;4:134. doi:10.12688/f1000research.6555.1."
+  },
+  {
+    "year": 2015,
+    "type": "journal-article",
+    "doi": "10.12688/f1000research.6555.2",
+    "title": "The Resource Identification Initiative: A cultural shift in publishing [version 2; referees: 2 approved]",
+    "citation": "Bandrowski A, Brush M, Grethe JS, Haendel MA, Kennedy DN, Hill S, et al. The Resource Identification Initiative: A cultural shift in publishing [version 2; referees: 2 approved]. 2015 Nov. doi:10.12688/f1000research.6555.2. PubMed PMID: 26594330; PubMed Central PMCID: PMC4648211.",
+    "pmid": "26594330",
+    "pmcid": "PMC4648211"
+  },
+  {
+    "year": 2015,
+    "type": "journal-article",
+    "doi": null,
+    "title": "The NIDDK Information Network: A Community Portal for Finding Data, Materials, and Tools for Researchers Studying Diabetes, Digestive, and Kidney Diseases.",
+    "citation": "Whetzel PL, Grethe JS, Banks DE, Martone ME. The NIDDK Information Network: A Community Portal for Finding Data, Materials, and Tools for Researchers Studying Diabetes, Digestive, and Kidney Diseases. PLOS ONE. 2015 Sep;10(9):e0136206. doi:10.1371/journal.pone.0136206."
+  },
+  {
+    "year": 2015,
+    "type": "journal-article",
+    "doi": "10.1371/journal.pone.0136206",
+    "title": "The NIDDK Information Network: A Community Portal for Finding Data, Materials, and Tools for Researchers Studying Diabetes, Digestive, and Kidney Diseases",
+    "citation": "Whetzel PL, Grethe JS, Banks DE, Martone ME. The NIDDK Information Network: A Community Portal for Finding Data, Materials, and Tools for Researchers Studying Diabetes, Digestive, and Kidney Diseases. PLOS ONE. 2015 Sep;10(9):e0136206. doi:10.1371/journal.pone.0136206. PubMed PMID: 26393351; PubMed Central PMCID: PMC4578941.",
+    "pmid": "26393351",
+    "pmcid": "PMC4578941"
+  },
+  {
+    "year": 2014,
+    "type": "journal-article",
+    "doi": "10.1186/1471-2202-15-s1-p101",
+    "title": "The neuroscience gateway portal: high performance computing made easy.",
+    "citation": "Carnevale T, Majumdar A, Sivagnanam S, Yoshimoto K, Astakhov V, Bandrowski A, et al. The neuroscience gateway portal: high performance computing made easy. BMC Neuroscience. 2014 Jul;15(S1). doi:10.1186/1471-2202-15-s1-p101. PubMed Central PMCID: PMC4124975.",
+    "pmcid": "PMC4124975"
+  },
+  {
+    "year": 2014,
+    "type": "journal-article",
+    "doi": "10.1186/2041-1480-5-51",
+    "title": "Comparative analysis of knowledge representation and reasoning requirements across a range of life sciences textbooks.",
+    "citation": "Chaudhri VK, Elenius D, Goldenkranz A, Gong A, Martone ME, Webb W, et al. Comparative analysis of knowledge representation and reasoning requirements across a range of life sciences textbooks. Journal of Biomedical Semantics. 2014;5(1):51. doi:10.1186/2041-1480-5-51. PubMed PMID: 25785183; PubMed Central PMCID: PMC4362633.",
+    "pmid": "25785183",
+    "pmcid": "PMC4362633"
+  },
+  {
+    "year": 2014,
+    "type": "journal-article",
+    "doi": "10.1038/nn.3838",
+    "title": "Big data from small data: data-sharing in the 'long tail' of neuroscience.",
+    "citation": "Ferguson AR, Nielson JL, Cragin MH, Bandrowski AE, Martone ME. Big data from small data: data-sharing in the 'long tail' of neuroscience. Nature Neuroscience. 2014 Oct;17(11):1442-1447. doi:10.1038/nn.3838. PubMed PMID: 25349910; PubMed Central PMCID: PMC4728080.",
+    "pmid": "25349910",
+    "pmcid": "PMC4728080"
+  },
+  {
+    "year": 2014,
+    "type": "journal-article",
+    "doi": "10.3389/conf.fninf.2014.08.00088",
+    "title": "Mission and activities of the INCF Electrophysiology Data Sharing Task Force",
+    "citation": "Friedrich S, Thomas W, Andrew D, Michael D, Jeffrey G, Sonja G, et al. Mission and activities of the INCF Electrophysiology Data Sharing Task Force. Frontiers in Neuroinformatics. 2014;8. doi:10.3389/conf.fninf.2014.08.00088."
+  },
+  {
+    "year": 2014,
+    "type": "journal-article",
+    "doi": "10.3389/fninf.2014.00062",
+    "title": "Interdisciplinary perspectives on the development, integration, and application of cognitive ontologies",
+    "citation": "Hastings J, Frishkoff GA, Smith B, Jensen M, Poldrack RA, Lomax J, et al. Interdisciplinary perspectives on the development, integration, and application of cognitive ontologies. Frontiers in Neuroinformatics. 2014 Jun;8. doi:10.3389/fninf.2014.00062. PubMed PMID: 24999329; PubMed Central PMCID: PMC4064452.",
+    "pmid": "24999329",
+    "pmcid": "PMC4064452"
+  },
+  {
+    "year": 2014,
+    "type": "conference-paper",
+    "doi": null,
+    "title": "SciCrunch: A cooperative and collaborative data and resource discovery platform for scientific communities",
+    "citation": "Jeffrey G, Anita B, Davis B, Christopher C, Amarnath G, Stephen L, et al. SciCrunch: A cooperative and collaborative data and resource discovery platform for scientific communities. In: Frontiers in Neuroinformatics. 2014. doi:10.3389/conf.fninf.2014.18.00069."
+  },
+  {
+    "year": 2014,
+    "type": "journal-article",
+    "doi": "10.3389/conf.fninf.2014.08.00115",
+    "title": "The Neuroscience Information Framework (NIF): A Unified Semantic Framework and Associated Tools for Discovery, Integration, and Utilization of Biomedical Data and Resources on the Web",
+    "citation": "Jeffrey G, Anita B, Jonathan C, Amarnath G, Fahim I, Stephen L, et al. The Neuroscience Information Framework (NIF): A Unified Semantic Framework and Associated Tools for Discovery, Integration, and Utilization of Biomedical Data and Resources on the Web. Frontiers in Neuroinformatics. 2014;8. doi:10.3389/conf.fninf.2014.08.00115."
+  },
+  {
+    "year": 2014,
+    "type": "journal-article",
+    "doi": "10.3389/conf.fninf.2014.18.00069",
+    "title": "SciCrunch: A cooperative and collaborative data and resource discovery platform for scientific communities",
+    "citation": "Jeffrey G, Anita B, Davis B, Christopher C, Amarnath G, Stephen L, et al. SciCrunch: A cooperative and collaborative data and resource discovery platform for scientific communities. Frontiers in Neuroinformatics. 2014;8. doi:10.3389/conf.fninf.2014.18.00069."
+  },
+  {
+    "year": 2014,
+    "type": "journal-article",
+    "doi": "10.3389/fninf.2014.00058",
+    "title": "Extending the NIF DISCO framework to automate complex workflow: coordinating the harvest and integration of data from diverse neuroscience information resources",
+    "citation": "Marenco LN, Wang R, Bandrowski AE, Grethe JS, Shepherd GM, Miller PL. Extending the NIF DISCO framework to automate complex workflow: coordinating the harvest and integration of data from diverse neuroscience information resources. Frontiers in Neuroinformatics. 2014 May;8. doi:10.3389/fninf.2014.00058. PubMed PMID: 25018728; PubMed Central PMCID: PMC4071641.",
+    "pmid": "25018728",
+    "pmcid": "PMC4071641"
+  },
+  {
+    "year": 2014,
+    "type": "journal-article",
+    "doi": "10.1165/rcmb.2013-0171oc",
+    "title": "T cells and lung injury. Impact of rapamycin.",
+    "citation": "Nakajima T, Lin KW, Li J, McGee HS, Kwan JM, Perkins DL, et al. T Cells and Lung Injury. Impact of Rapamycin. American Journal of Respiratory Cell and Molecular Biology. 2014 Aug;51(2):294-299. doi:10.1165/rcmb.2013-0171oc. PubMed PMID: 24641710; PubMed Central PMCID: PMC4148036.",
+    "pmid": "24641710",
+    "pmcid": "PMC4148036"
+  },
+  {
+    "year": 2014,
+    "type": "journal-article",
+    "doi": "10.1186/2041-1480-5-1",
+    "title": "Neuroanatomical domain of the foundational model of anatomy ontology.",
+    "citation": "Nichols B, Mejino JL, Detwiler LT, Nilsen TT, Martone ME, Turner JA, et al. Neuroanatomical domain of the foundational model of anatomy ontology. Journal of Biomedical Semantics. 2014;5(1):1. doi:10.1186/2041-1480-5-1. PubMed PMID: 24398054; PubMed Central PMCID: PMC3944952.",
+    "pmid": "24398054",
+    "pmcid": "PMC3944952"
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": null,
+    "title": "Phenotype Information Retrieval for Existing GWAS Studies.",
+    "citation": "Alipanah N, Lin K, Venkatesh V, Farzaneh S, Kim HE. Phenotype Information Retrieval for Existing GWAS Studies.. PubMed. 2013;2013:4-8."
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.3389/conf.fninf.2013.09.00075",
+    "title": "A Unified Research Resource Layer; Experiences from the Neuroscience Information Framework",
+    "citation": "Anita B, Yueling L, Davis B, Jeffrey G, Maryann M. A Unified Research Resource Layer; Experiences from the Neuroscience Information Framework. Front. Neuroinform.. 2013. doi:10.3389/conf.fninf.2013.09.00075."
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": null,
+    "title": "Standardizing Phenotype Variables in the Database of Genotypes and phenotypes (dbGaP) based on Information Models.",
+    "citation": "Cobb JN, DeClerck G, Greenberg AJ, Clark R, McCouch SR. Next-generation phenotyping: requirements and strategies for enhancing our understanding of genotype–phenotype relationships and its relevance to crop improvement. Theoretical and Applied Genetics. 2013;126(4):867-887. doi:10.1007/s00122-013-2066-0."
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.3389/fphar.2013.00006",
+    "title": "A comparative antibody analysis of pannexin1 expression in four rat brain regions reveals varying subcellular localizations.",
+    "citation": "Cone AC, Ambrosi C, Scemes E, Martone ME, Sosinsky GE. A Comparative Antibody Analysis of Pannexin1 Expression in Four Rat Brain Regions Reveals Varying Subcellular Localizations. Frontiers in Pharmacology. 2013;4. doi:10.3389/fphar.2013.00006. PubMed PMID: 23390418; PubMed Central PMCID: PMC3565217.",
+    "pmid": "23390418",
+    "pmcid": "PMC3565217"
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.1136/amiajnl-2013-001882",
+    "title": "PhenDisco: phenotype discovery system for the database of genotypes and phenotypes.",
+    "citation": "Doan S, Lin KW, Conway M, Ohno-Machado L, Hsieh A, Feupe SF, et al. PhenDisco: phenotype discovery system for the database of genotypes and phenotypes. Journal of the American Medical Informatics Association. 2014 Jan;21(1):31-36. doi:10.1136/amiajnl-2013-001882. PubMed PMID: 23989082; PubMed Central PMCID: PMC3912702.",
+    "pmid": "23989082",
+    "pmcid": "PMC3912702"
+  },
+  {
+    "year": 2013,
+    "type": "conference-paper",
+    "doi": "10.1145/2484838.2484839",
+    "title": "Semantic query reformulation",
+    "citation": "Gupta A, Bandrowski A, Condit C, Qian X, Grethe JS, Martone ME. Semantic query reformulation. In: Proceedings of the 25th International Conference on Scientific and Statistical Database Management - SSDBM. 2013. doi:10.1145/2484838.2484839."
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.3389/conf.fninf.2013.09.00073",
+    "title": "The Neuroscience Information Framework (NIF): A Unified Semantic Framework and Associated Tools for Discovery, Integration, and Utilization of Biomedical Data and Resources on the Web",
+    "citation": "Jeffrey G, Anita B, Davis B, Jonathan C, Jing C, Christopher C, et al. The Neuroscience Information Framework (NIF): A Unified Semantic Framework and Associated Tools for Discovery, Integration, and Utilization of Biomedical Data and Resources on the Web. Frontiers in Neuroinformatics. 2013;7. doi:10.3389/conf.fninf.2013.09.00073."
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.3389/fninf.2013.00018",
+    "title": "NeuroLex.org: an online framework for neuroscience knowledge",
+    "citation": "Larson SD, Martone ME. NeuroLex.org: an online framework for neuroscience knowledge. Frontiers in Neuroinformatics. 2013;7. doi:10.3389/fninf.2013.00018. PubMed PMID: 24009581; PubMed Central PMCID: PMC3757470.",
+    "pmid": "24009581",
+    "pmcid": "PMC3757470"
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.1371/journal.pone.0076384",
+    "title": "Feasibility of using Clinical Element Models (CEM) to standardize phenotype variables in the database of genotypes and phenotypes (dbGaP).",
+    "citation": "Lin KW, Tharp M, Conway M, Hsieh A, Ross M, Kim J, et al. Feasibility of Using Clinical Element Models (CEM) to Standardize Phenotype Variables in the Database of Genotypes and Phenotypes (dbGaP). PLoS ONE. 2013 Sep;8(9):e76384. doi:10.1371/journal.pone.0076384. PubMed PMID: 24058713; PubMed Central PMCID: PMC3776754.",
+    "pmid": "24058713",
+    "pmcid": "PMC3776754"
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-013-9207-0",
+    "title": "Connecting Connectomes",
+    "citation": "Martone ME, Ascoli GA. Connecting Connectomes. Neuroinformatics. 2013 Oct;11(4):389-392. doi:10.1007/s12021-013-9207-0. PubMed PMID: 24096724; PubMed Central PMCID: PMC3858843.",
+    "pmid": "24096724",
+    "pmcid": "PMC3858843"
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.1002/brb3.192",
+    "title": "Brain and Behavior : we want you to share your data",
+    "citation": "Martone ME. <i>Brain and Behavior</i>: we want you to share your data. Brain and Behavior. 2013 Nov;4(1):1-3. doi:10.1002/brb3.192. PubMed PMID: 24653948; PubMed Central PMCID: PMC3937699.",
+    "pmid": "24653948",
+    "pmcid": "PMC3937699"
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.3389/fninf.2013.00007",
+    "title": "A knowledge based approach to matching human neurodegenerative disease and animal models",
+    "citation": "Maynard SM, Mungall CJ, Lewis SE, Imam FT, Martone ME. A knowledge based approach to matching human neurodegenerative disease and animal models. Frontiers in Neuroinformatics. 2013;7. doi:10.3389/fninf.2013.00007. PubMed PMID: 23717278; PubMed Central PMCID: PMC3653101.",
+    "pmid": "23717278",
+    "pmcid": "PMC3653101"
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.1093/nar/gks1257",
+    "title": "The cell: an image library-CCDB: a curated repository of microscopy data.",
+    "citation": "Orloff DN, Iwasa JH, Martone ME, Ellisman MH, Kane CM. The cell: an image library-CCDB: a curated repository of microscopy data. Nucleic Acids Research. 2012 Nov;41(D1):D1241-D1250. doi:10.1093/nar/gks1257. PubMed PMID: 23203874; PubMed Central PMCID: PMC3531121.",
+    "pmid": "23203874",
+    "pmcid": "PMC3531121"
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.1186/2041-1480-4-20",
+    "title": "The Gene Ontology (GO) Cellular Component Ontology: Integration with SAO (Subcellular Anatomy Ontology) and other recent developments",
+    "citation": "Roncaglia P, Martone ME, Hill DP, Berardini TZ, Foulger RE, Imam FT, et al. The Gene Ontology (GO) Cellular Component Ontology: integration with SAO (Subcellular Anatomy Ontology) and other recent developments. Journal of Biomedical Semantics. 2013;4(1):20. doi:10.1186/2041-1480-4-20. PubMed PMID: 24093723; PubMed Central PMCID: PMC3852282.",
+    "pmid": "24093723",
+    "pmcid": "PMC3852282"
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.4137/bii.s11987",
+    "title": "Text Categorization of Heart, Lung, and Blood Studies in the Database of Genotypes and Phenotypes (dbGaP) Utilizing n-grams and Metadata Features.",
+    "citation": "Ross MK, Lin KW, Truong K, Kumar A, Conway M. Text Categorization of Heart, Lung, and Blood Studies in the Database of Genotypes and Phenotypes (dbGaP) Utilizing <i>n</i>-grams and Metadata Features. Biomedical Informatics Insights. 2013 Jan;6:BII.S11987. doi:10.4137/bii.s11987. PubMed PMID: 23926434; PubMed Central PMCID: PMC3728208.",
+    "pmid": "23926434",
+    "pmcid": "PMC3728208"
+  },
+  {
+    "year": 2013,
+    "type": "journal-article",
+    "doi": "10.3389/fncir.2013.00080",
+    "title": "A knowledge based approach to matching human neurodegenerative disease and animal models",
+    "citation": "Vouimba RM, Richter-Levin G. Different patterns of amygdala priming differentially affect dentate gyrus plasticity and corticosterone, but not CA1 plasticity. Frontiers in Neural Circuits. 2013;7. doi:10.3389/fncir.2013.00080. PubMed PMID: 23653594; PubMed Central PMCID: PMC3642501.",
+    "pmid": "23653594",
+    "pmcid": "PMC3642501"
+  },
+  {
+    "year": 2012,
+    "type": "conference-paper",
+    "doi": "10.1016/j.procs.2012.04.175",
+    "title": "Prototype of Kepler processing workflows for microscopy and neuroinformatics",
+    "citation": "Astakhov V, Bandrowski A, Gupta A, Kulungowski A, Grethe J, Bouwer J, et al. Prototype of Kepler Processing Workflows For Microscopy And Neuroinformatics. In: Procedia Computer Science. 2012. doi:10.1016/j.procs.2012.04.175. PubMed PMID: 28479932; PubMed Central PMCID: PMC5415345.",
+    "pmid": "28479932",
+    "pmcid": "PMC5415345"
+  },
+  {
+    "year": 2012,
+    "type": "journal-article",
+    "doi": "10.1093/database/bas005",
+    "title": "A hybrid human and machine resource curation pipeline for the Neuroscience Information Framework.",
+    "citation": "Bandrowski AE, Cachat J, Li Y, Muller HM, Sternberg PW, Ciccarese P, et al. A hybrid human and machine resource curation pipeline for the Neuroscience Information Framework. Database. 2012 Mar;2012(0):bas005-bas005. doi:10.1093/database/bas005. PubMed PMID: 22434839; PubMed Central PMCID: PMC3308161.",
+    "pmid": "22434839",
+    "pmcid": "PMC3308161"
+  },
+  {
+    "year": 2012,
+    "type": "journal-article",
+    "doi": "10.1002/cne.23067",
+    "title": "Electron tomographic analysis of synaptic ultrastructure",
+    "citation": "Burette AC, Lesperance T, Crum J, Martone M, Volkmann N, Ellisman MH, et al. Electron tomographic analysis of synaptic ultrastructure. Journal of Comparative Neurology. 2012 Jun;520(12):2697-2711. doi:10.1002/cne.23067. PubMed PMID: 22684938; PubMed Central PMCID: PMC3856703.",
+    "pmid": "22684938",
+    "pmcid": "PMC3856703"
+  },
+  {
+    "year": 2012,
+    "type": "book-chapter",
+    "doi": "10.1016/b978-0-12-388408-4.00003-4",
+    "title": "A Survey of the Neuroscience Resource Landscape. Perspectives from the Neuroscience Information Framework.",
+    "citation": "Cachat J, Bandrowski A, Grethe JS, Gupta A, Astakhov V, Imam F, et al. A Survey of the Neuroscience Resource Landscape. In: International Review of Neurobiology. 2012. doi:10.1016/b978-0-12-388408-4.00003-4. PubMed PMID: 23195120.",
+    "pmid": "23195120"
+  },
+  {
+    "year": 2012,
+    "type": "journal-article",
+    "doi": "10.4018/ijkbo.2012100103",
+    "title": "Ontology Merging and Reasoning Using Paraconsistent Logics",
+    "citation": "Cocos C, Imam F, MacCaull W. Ontology Merging and Reasoning Using Paraconsistent Logics. International Journal of Knowledge-Based Organizations. 2012 Oct;2(4):35-51. doi:10.4018/ijkbo.2012100103."
+  },
+  {
+    "year": 2012,
+    "type": "journal-article",
+    "doi": "10.1038/nmeth.2084",
+    "title": "Biological imaging software tools.",
+    "citation": "Eliceiri KW, Berthold MR, Goldberg IG, Ibáñez L, Manjunath BS, Martone ME, et al. Biological imaging software tools. Nature Methods. 2012 Jun;9(7):697-710. doi:10.1038/nmeth.2084. PubMed PMID: 22743775; PubMed Central PMCID: PMC3659807.",
+    "pmid": "22743775",
+    "pmcid": "PMC3659807"
+  },
+  {
+    "year": 2012,
+    "type": "journal-article",
+    "doi": "10.1186/1471-2105-13-29",
+    "title": "Method: automatic segmentation of mitochondria utilizing patch classification, contour pair classification, and automatically seeded level sets.",
+    "citation": "Giuly RJ, Martone ME, Ellisman MH. Method: automatic segmentation of mitochondria utilizing patch classification, contour pair classification, and automatically seeded level sets. BMC Bioinformatics. 2012 Feb;13(1). doi:10.1186/1471-2105-13-29. PubMed PMID: 22321695; PubMed Central PMCID: PMC3293777.",
+    "pmid": "22321695",
+    "pmcid": "PMC3293777"
+  },
+  {
+    "year": 2012,
+    "type": "journal-article",
+    "doi": "10.3389/fninf.2012.00015",
+    "title": "An ontological approach to describing neurons and their relationships",
+    "citation": "Hamilton DJ, Shepherd GM, Martone ME, Ascoli GA. An ontological approach to describing neurons and their relationships. Frontiers in Neuroinformatics. 2012;6. doi:10.3389/fninf.2012.00015. PubMed PMID: 22557965; PubMed Central PMCID: PMC3338117.",
+    "pmid": "22557965",
+    "pmcid": "PMC3338117"
+  },
+  {
+    "year": 2012,
+    "type": "book",
+    "doi": "10.3233/978-1-61499-084-0-15",
+    "title": "Maturation of neuroscience information framework: An ontology driven information system for neuroscience",
+    "citation": "Imam Fahim T., Larson Stephen, Bandrowski Anita, Grethe Jeffrey S., Gupta Amarnath, Martone Maryann E.. Maturation of Neuroscience Information Framework: An Ontology Driven Information System for Neuroscience. Frontiers in Artificial Intelligence and Applications. 2012. doi:10.3233/978-1-61499-084-0-15."
+  },
+  {
+    "year": 2012,
+    "type": "journal-article",
+    "doi": "10.3389/fgene.2012.00111",
+    "title": "Development and use of Ontologies Inside the Neuroscience Information Framework: A Practical Approach.",
+    "citation": "Imam FT, Larson SD, Bandrowski A, Grethe JS, Gupta A, Martone ME. Development and use of Ontologies Inside the Neuroscience Information Framework: A Practical Approach. Frontiers in Genetics. 2012;3. doi:10.3389/fgene.2012.00111. PubMed PMID: 22737162; PubMed Central PMCID: PMC3381282.",
+    "pmid": "22737162",
+    "pmcid": "PMC3381282"
+  },
+  {
+    "year": 2012,
+    "type": "journal-article",
+    "doi": "10.1186/1471-2202-13-s1-p149",
+    "title": "Computational Neuroscience Ontology: a new tool to provide semantic meaning to your models",
+    "citation": "Le Franc Y, Davison AP, Gleeson P, Imam FT, Kriener B, Larson SD, et al. Computational Neuroscience Ontology: a new tool to provide semantic meaning to your models. BMC Neuroscience. 2012 Jul;13(S1). doi:10.1186/1471-2202-13-s1-p149. PubMed Central PMCID: PMC3403625.",
+    "pmcid": "PMC3403625"
+  },
+  {
+    "year": 2012,
+    "type": "journal-article",
+    "doi": "10.1165/rcmb.2012-0155oc",
+    "title": "Regulation of cytotoxic T lymphocyte antigen 4 by cyclic AMP.",
+    "citation": "Li J, Lin KW, Murray F, Nakajima T, Zhao Y, Perkins DL, et al. Regulation of Cytotoxic T Lymphocyte Antigen 4 by Cyclic AMP. American Journal of Respiratory Cell and Molecular Biology. 2013 Jan;48(1):63-70. doi:10.1165/rcmb.2012-0155oc. PubMed PMID: 23024062; PubMed Central PMCID: PMC3547085.",
+    "pmid": "23024062",
+    "pmcid": "PMC3547085"
+  },
+  {
+    "year": 2012,
+    "type": "journal-article",
+    "doi": "10.1111/j.1365-2818.2012.03614.x",
+    "title": "Computerized detection and segmentation of mitochondria on electron microscope images.",
+    "citation": "MUMCUOGLU E, HASSANPOUR R, TASEL S, PERKINS G, MARTONE M, GURCAN M. Computerized detection and segmentation of mitochondria on electron microscope images. Journal of Microscopy. 2012 Apr;246(3):248-265. doi:10.1111/j.1365-2818.2012.03614.x. PubMed PMID: 22506967.",
+    "pmid": "22506967"
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": "10.1126/science.1199305",
+    "title": "Challenges and opportunities in mining neuroscience data.",
+    "citation": "Akil H, Martone ME, Van Essen DC. Challenges and Opportunities in Mining Neuroscience Data. Science. 2011 Feb;331(6018):708-712. doi:10.1126/science.1199305. PubMed PMID: 21311009; PubMed Central PMCID: PMC3102049.",
+    "pmid": "21311009",
+    "pmcid": "PMC3102049"
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": "10.1016/j.brainres.2011.03.044",
+    "title": "Multiscale imaging characterization of dopamine transporter knockout mice reveals regional alterations in spine density of medium spiny neurons.",
+    "citation": "Berlanga M, Price D, Phung B, Giuly R, Terada M, Yamada N, et al. Multiscale imaging characterization of dopamine transporter knockout mice reveals regional alterations in spine density of medium spiny neurons. Brain Research. 2011 May;1390:41-49. doi:10.1016/j.brainres.2011.03.044. PubMed PMID: 21439946; PubMed Central PMCID: PMC3104025.",
+    "pmid": "21439946",
+    "pmcid": "PMC3104025"
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": "10.3389/fnana.2011.00017",
+    "title": "Three-dimensional reconstruction of serial mouse brain sections: solution for flattening high-resolution large-scale mosaics.",
+    "citation": "Berlanga ML, Phan S, Bushong EA, Wu S, Kwon O, Phung BS, et al. Three-Dimensional Reconstruction of Serial Mouse Brain Sections: Solution for Flattening High-Resolution Large-Scale Mosaics. Frontiers in Neuroanatomy. 2011;5. doi:10.3389/fnana.2011.00017. PubMed PMID: 21629828; PubMed Central PMCID: PMC3096995.",
+    "pmid": "21629828",
+    "pmcid": "PMC3096995"
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-011-9119-9",
+    "title": "XCEDE: An Extensible Schema for Biomedical Data",
+    "citation": "FBIRN, MBIRN, BIRN-CC, Gadde S, Aucoin N, Grethe JS, Keator DB, Marcus DS, et al. XCEDE: An Extensible Schema for Biomedical Data. Neuroinformatics. 2011 Apr;10(1):19-32. doi:10.1007/s12021-011-9119-9. PubMed Central PMCID: PMC3836560.",
+    "pmcid": "PMC3836560"
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": "10.1371/journal.pcbi.1001065",
+    "title": "Digital atlasing and standardization in the mouse brain.",
+    "citation": "Hawrylycz M, Baldock RA, Burger A, Hashikawa T, Johnson GA, Martone M, et al. Digital Atlasing and Standardization in the Mouse Brain. PLoS Computational Biology. 2011 Feb;7(2):e1001065. doi:10.1371/journal.pcbi.1001065. PubMed PMID: 21304938; PubMed Central PMCID: PMC3033370.",
+    "pmid": "21304938",
+    "pmcid": "PMC3033370"
+  },
+  {
+    "year": 2011,
+    "type": "conference-paper",
+    "doi": null,
+    "title": "NIFSTD and neurolex: A comprehensive neuroscience ontology development based on multiple biomedical ontologies and community involvement",
+    "citation": "Imam FT, Larson S, Grethe JS, Gupta A, Bandrowski A, Martone ME. NIFSTD and NeuroLex: Comprehensive Neuroscience Ontology Development Based on Multiple Biomedical Ontologies and Community Involvement.. In: ICBO. 2011."
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": "10.3389/conf.fninf.2011.08.00125",
+    "title": "The Neuroimaging Informatics Tools and Resources Clearinghouse: Year 4 Update",
+    "citation": "Jeff G. The Neuroimaging Informatics Tools and Resources Clearinghouse: Year 4 Update. Frontiers in Neuroinformatics. 2011;5. doi:10.3389/conf.fninf.2011.08.00125."
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": "10.1016/j.bbagen.2011.04.015",
+    "title": "Emerging pathways in asthma: innate and adaptive interactions.",
+    "citation": "Lin KW, Li J, Finn PW. Emerging pathways in asthma: Innate and adaptive interactions. Biochimica et Biophysica Acta (BBA) - General Subjects. 2011 Nov;1810(11):1052-1058. doi:10.1016/j.bbagen.2011.04.015. PubMed PMID: 21596099.",
+    "pmid": "21596099"
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": null,
+    "title": "Correction: Digital Atlasing and Standardization in the Mouse Brain.",
+    "citation": "M H, RA B, A B, T H, GA J, M M, et al. Correction: Digital Atlasing and Standardization in the Mouse Brain.. 2011 Feb."
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": "10.4056/sigs.1344279",
+    "title": "Data shopping in an open marketplace: Introducing the Ontogrator web application for marking up data using ontologies and browsing using facets.",
+    "citation": "Morrison N, Hancock D, Hirschman L, Dawyndt P, Verslyppe B, Kyrpides N, et al. Data shopping in an open marketplace: Introducing the Ontogrator web application for marking up data using ontologies and browsing using facets. Standards in Genomic Sciences. 2011 Apr;4(2):286-292. doi:10.4056/sigs.1344279. PubMed PMID: 21677865; PubMed Central PMCID: PMC3111990.",
+    "pmid": "21677865",
+    "pmcid": "PMC3111990"
+  },
+  {
+    "year": 2011,
+    "type": "conference-paper",
+    "doi": null,
+    "title": "An ontology-based approach to linking model organisms and resources to human diseases",
+    "citation": "Mungall C, Anderson DA, Bandrowski A, Canada BA, Chatyr-Aryamontri A, Cheng KC, et al. An ontology-based approach to linking model organisms and resources to human diseases. 2011."
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": "10.1186/1465-9921-12-118",
+    "title": "Mucin granule-associated proteins in human bronchial epithelial cells: the airway goblet cell \"granulome\".",
+    "citation": "Raiford KL, Park J, Lin KW, Fang S, Crews AL, Adler KB. Mucin granule-associated proteins in human bronchial epithelial cells: the airway goblet cell \"granulome\". Respiratory Research. 2011 Dec;12(1). doi:10.1186/1465-9921-12-118. PubMed PMID: 21896166; PubMed Central PMCID: PMC3184067.",
+    "pmid": "21896166",
+    "pmcid": "PMC3184067"
+  },
+  {
+    "year": 2011,
+    "type": "journal-article",
+    "doi": "10.1093/nar/gkq1102",
+    "title": "Community cyberinfrastructure for Advanced Microbial Ecology Research and Analysis: the CAMERA resource.",
+    "citation": "Sun S, Chen J, Li W, Altintas I, Lin A, Peltier S, et al. Community cyberinfrastructure for Advanced Microbial Ecology Research and Analysis: the CAMERA resource. Nucleic Acids Research. 2010 Nov;39(Database):D546-D551. doi:10.1093/nar/gkq1102. PubMed PMID: 21045053; PubMed Central PMCID: PMC3013694.",
+    "pmid": "21045053",
+    "pmcid": "PMC3013694"
+  },
+  {
+    "year": 2010,
+    "type": "conference-paper",
+    "doi": "10.1109/esciencew.2010.18",
+    "title": "Extending the Data Model for Data-Centric Metagenomics Analysis Using Scientific Workflows in CAMERA",
+    "citation": "Altintas I, Chen J, Sedova M, Gupta A, Sun S, Lin AW, et al. Extending the Data Model for Data-Centric Metagenomics Analysis Using Scientific Workflows in CAMERA. In: 2010 Sixth IEEE International Conference on e-Science Workshops. 2010. doi:10.1109/esciencew.2010.18."
+  },
+  {
+    "year": 2010,
+    "type": "conference-paper",
+    "doi": "10.1109/services.2010.89",
+    "title": "CAMERA 2.0: A Data-centric Metagenomics Community Infrastructure Driven by Scientific Workflows",
+    "citation": "Altintas I, Lin AW, Chen J, Churas C, Gujral M, Sun S, et al. CAMERA 2.0: A Data-centric Metagenomics Community Infrastructure Driven by Scientific Workflows. In: 2010 6th World Congress on Services. 2010 Jul. doi:10.1109/services.2010.89."
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.3389/fninf.2010.00010",
+    "title": "Application of neuroanatomical ontologies for neuroimaging data annotation.",
+    "citation": "JA T, JL M, JF B, LT D, HJ L, ME M, et al. Application of neuroanatomical ontologies for neuroimaging data annotation.. 2010. doi:10.3389/fninf.2010.00010. PubMed PMID: 20725521; PubMed Central PMCID: PMC2912099.",
+    "pmid": "20725521",
+    "pmcid": "PMC2912099"
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.3389/conf.fnins.2010.13.00027",
+    "title": "The Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC)",
+    "citation": "Jeff G. The Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC). Frontiers in Neuroscience. 2010;4. doi:10.3389/conf.fnins.2010.13.00027."
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.1057/ivs.2010.6",
+    "title": "Dimensionality Reduction on Multi-Dimensional Transfer Functions for Multi-Channel Volume Data Sets.",
+    "citation": "Kim HS, Schulze JP, Cone AC, Sosinsky GE, Martone ME. Dimensionality Reduction on Multi-Dimensional Transfer Functions for Multi-Channel Volume Data Sets. Information Visualization. 2010 Sep;9(3):167-180. doi:10.1057/ivs.2010.6. PubMed PMID: 21841914; PubMed Central PMCID: PMC3153355.",
+    "pmid": "21841914",
+    "pmcid": "PMC3153355"
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.1117/12.839526",
+    "title": "Multi-Channel Transfer Function with Dimensionality Reduction.",
+    "citation": "Kim HS, Schulze JP, Cone AC, Sosinsky GE, Martone ME. Multichannel transfer function with dimensionality reduction. SPIE Proceedings. 2010 Jan;7530:75300A. doi:10.1117/12.839526. PubMed PMID: 20582228; PubMed Central PMCID: PMC2891081.",
+    "pmid": "20582228",
+    "pmcid": "PMC2891081"
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.1016/j.cogsys.2008.08.005",
+    "title": "Towards an ontology for psychosis",
+    "citation": "Kola J(, Harris J, Lawrie S, Rector A, Goble C, Martone M. Towards an ontology for psychosis. Cognitive Systems Research. 2010 Mar;11(1):42-52. doi:10.1016/j.cogsys.2008.08.005."
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.4049/jimmunol.0901947",
+    "title": "Surfactant protein D-mediated decrease of allergen-induced inflammation is dependent upon CTLA4.",
+    "citation": "Lin KW, Jen KY, Suarez CJ, Crouch EC, Perkins DL, Finn PW. Surfactant Protein D-Mediated Decrease of Allergen-Induced Inflammation Is Dependent upon CTLA4. The Journal of Immunology. 2010 Jun;184(11):6343-6349. doi:10.4049/jimmunol.0901947. PubMed PMID: 20435925; PubMed Central PMCID: PMC2905687.",
+    "pmid": "20435925",
+    "pmcid": "PMC2905687"
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.1165/rcmb.2010-0016rc",
+    "title": "MARCKS and related chaperones bind to unconventional myosin V isoforms in airway epithelial cells.",
+    "citation": "Lin KW, Fang S, Park J, Crews AL, Adler KB. MARCKS and Related Chaperones Bind to Unconventional Myosin V Isoforms in Airway Epithelial Cells. American Journal of Respiratory Cell and Molecular Biology. 2010 Aug;43(2):131-136. doi:10.1165/rcmb.2010-0016rc. PubMed PMID: 20203291; PubMed Central PMCID: PMC2937227.",
+    "pmid": "20203291",
+    "pmcid": "PMC2937227"
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.3389/conf.fnins.2010.13.00013",
+    "title": "The possibility and probability of a global neuroscience information framework",
+    "citation": "Maryann M. The possibility and probability of a global neuroscience information framework. Frontiers in Neuroscience. 2010;4. doi:10.3389/conf.fnins.2010.13.00013."
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.3389/conf.fnins.2010.13.00083",
+    "title": "Activities of the US INCF Node",
+    "citation": "Maryann M. Activities of the US INCF Node. Frontiers in Neuroscience. 2010;4. doi:10.3389/conf.fnins.2010.13.00083."
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.4049/jimmunol.0903238",
+    "title": "T cell pathways involving CTLA4 contribute to a model of acute lung injury.",
+    "citation": "Nakajima T, Suarez CJ, Lin KW, Jen KY, Schnitzer JE, Makani SS, et al. T Cell Pathways Involving CTLA4 Contribute To a Model of Acute Lung Injury. The Journal of Immunology. 2010 May;184(10):5835-5841. doi:10.4049/jimmunol.0903238. PubMed PMID: 20385880; PubMed Central PMCID: PMC3068917.",
+    "pmid": "20385880",
+    "pmcid": "PMC3068917"
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-010-9078-6",
+    "title": "Federated Web-accessible Clinical Data Management within an Extensible NeuroImaging Database",
+    "citation": "Ozyurt IB, Keator DB, Wei D, Fennema-Notestine C, Pease KR, Bockholt J, et al. Federated Web-accessible Clinical Data Management within an Extensible NeuroImaging Database. Neuroinformatics. 2010 Jun;8(4):231-249. doi:10.1007/s12021-010-9078-6. PubMed PMID: 20567938; PubMed Central PMCID: PMC2974931.",
+    "pmid": "20567938",
+    "pmcid": "PMC2974931"
+  },
+  {
+    "year": 2010,
+    "type": "journal-article",
+    "doi": "10.1186/2041-1480-1-s1-s7",
+    "title": "Modeling biomedical experimental processes with OBI",
+    "citation": "the OBI consortium, Brinkman RR, Courtot M, Derom D, Fostel JM, He Y, et al. Modeling biomedical experimental processes with OBI. Journal of Biomedical Semantics. 2010 Jun;1(S1). doi:10.1186/2041-1480-1-s1-s7. PubMed PMID: 20626927; PubMed Central PMCID: PMC2903726.",
+    "pmid": "20626927",
+    "pmcid": "PMC2903726"
+  },
+  {
+    "year": 2009,
+    "type": "book-chapter",
+    "doi": "10.1007/978-1-59745-524-4_3",
+    "title": "Mediator Infrastructure for Information Integration and Semantic Data Integration Environment for Biomedical Research",
+    "citation": "Grethe JS, Ross E, Little D, Sanders B, Gupta A, Astakhov V. Mediator Infrastructure for Information Integration and Semantic Data Integration Environment for Biomedical Research. In: Methods in Molecular Biology. 2009. doi:10.1007/978-1-59745-524-4_3. PubMed PMID: 19623485.",
+    "pmid": "19623485"
+  },
+  {
+    "year": 2009,
+    "type": "journal-article",
+    "doi": "10.1242/jcs.028175",
+    "title": "Three-dimensional electron microscopy reveals new details of membrane systems for Ca2+ signaling in the heart.",
+    "citation": "Hayashi T, Martone ME, Yu Z, Thor A, Doi M, Holst MJ, et al. Three-dimensional electron microscopy reveals new details of membrane systems for Ca2+ signaling in the heart. Journal of Cell Science. 2009 Apr;122(7):1005-1013. doi:10.1242/jcs.028175. PubMed PMID: 19295127; PubMed Central PMCID: PMC2720931.",
+    "pmid": "19295127",
+    "pmcid": "PMC2720931"
+  },
+  {
+    "year": 2009,
+    "type": "book-chapter",
+    "doi": "10.1007/978-3-642-00328-8_37",
+    "title": "Integrating Healthcare Ontologies: Inconsistency Tolerance and Case Study",
+    "citation": "Imam F, MacCaull W. Integrating Healthcare Ontologies: Inconsistency Tolerance and Case Study. In: Lecture Notes in Business Information Processing. 2009. doi:10.1007/978-3-642-00328-8_37."
+  },
+  {
+    "year": 2009,
+    "type": "journal-article",
+    "doi": "10.3389/neuro.11.030.2009",
+    "title": "Derived Data Storage and Exchange Workflow for Large-Scale Neuroimaging Analyses on the BIRN Grid.",
+    "citation": "Keator DB. Derived Data Storage and Exchange Workflow for Large-Scale Neuroimaging Analyses on the BIRN Grid. Frontiers in Neuroinformatics. 2009;3. doi:10.3389/neuro.11.030.2009. PubMed PMID: 19826494; PubMed Central PMCID: PMC2759340.",
+    "pmid": "19826494",
+    "pmcid": "PMC2759340"
+  },
+  {
+    "year": 2009,
+    "type": "conference-paper",
+    "doi": "10.1109/isbi.2009.5193260",
+    "title": "Software development for neuroimaging: Promoting community access and best practices through NITRC",
+    "citation": "Kennedy DN, Haselgrove C, Buccigrossi R, Grethe J. Software development for neuroimaging: Promoting community access and best practices through NITRC. In: 2009 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. 2009 Jun. doi:10.1109/isbi.2009.5193260."
+  },
+  {
+    "year": 2009,
+    "type": "conference-paper",
+    "doi": null,
+    "title": "NeuroLex.org-A semantic wiki for neuroinformatics based on the NIF standard ontology",
+    "citation": "Larson S, Maynard S, Imam FT, Martone ME. NeuroLex.org - A semantic wiki for neuroinformatics based on the NIF Standard Ontology. In: Frontiers in Neuroinformatics. 2009. doi:10.3389/conf.neuro.11.2009.08.078."
+  },
+  {
+    "year": 2009,
+    "type": "journal-article",
+    "doi": "10.3389/neuro.01.007.2009",
+    "title": "Ontologies for Neuroscience: What are they and What are they Good for?",
+    "citation": "Larson SD. Ontologies for neuroscience: What are they and what are they good for?. Frontiers in Neuroscience. 2009 May;3(1). doi:10.3389/neuro.01.007.2009. PubMed PMID: 19753098; PubMed Central PMCID: PMC2695392.",
+    "pmid": "19753098",
+    "pmcid": "PMC2695392"
+  },
+  {
+    "year": 2009,
+    "type": "conference-paper",
+    "doi": "10.1109/cbms.2009.5255362",
+    "title": "Ontology driven data integration for autism research",
+    "citation": "Young L, Tu SW, Tennakoon L, Vismer D, Astakhov V, Gupta A, et al. Ontology driven data integration for autism research. In: 2009 22nd IEEE International Symposium on Computer-Based Medical Systems. 2009 Aug. doi:10.1109/cbms.2009.5255362."
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-008-9032-z",
+    "title": "The NIFSTD and BIRNLex vocabularies: Building comprehensive ontologies for neuroscience",
+    "citation": "Bug WJ, Ascoli GA, Grethe JS, Gupta A, Fennema-Notestine C, Laird AR, et al. The NIFSTD and BIRNLex Vocabularies: Building Comprehensive Ontologies for Neuroscience. Neuroinformatics. 2008 Sep;6(3):175-194. doi:10.1007/s12021-008-9032-z. PubMed PMID: 18975148; PubMed Central PMCID: PMC2743139.",
+    "pmid": "18975148",
+    "pmcid": "PMC2743139"
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": null,
+    "title": "The Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC).",
+    "citation": "David K. The neuroimaging informatics tools and resources clearinghouse (NITRC). Frontiers in Neuroinformatics. 2008;2. doi:10.3389/conf.neuro.11.2008.01.122."
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-008-9024-z",
+    "title": "The Neuroscience Information Framework: A Data and Knowledge Environment for Neuroscience",
+    "citation": "Gardner D, Akil H, Ascoli GA, Bowden DM, Bug W, Donohue DE, et al. The Neuroscience Information Framework: A Data and Knowledge Environment for Neuroscience. Neuroinformatics. 2008 Sep;6(3):149-160. doi:10.1007/s12021-008-9024-z. PubMed PMID: 18946742; PubMed Central PMCID: PMC2661130.",
+    "pmid": "18946742",
+    "pmcid": "PMC2661130"
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-008-9033-y",
+    "title": "Federated access to heterogeneous information resources in the Neuroscience Information Framework (NIF).",
+    "citation": "Gupta A, Bug W, Marenco L, Qian X, Condit C, Rangarajan A, et al. Federated Access to Heterogeneous Information Resources in the Neuroscience Information Framework (NIF). Neuroinformatics. 2008 Sep;6(3):205-217. doi:10.1007/s12021-008-9033-y. PubMed PMID: 18958629; PubMed Central PMCID: PMC2689790.",
+    "pmid": "18958629",
+    "pmcid": "PMC2689790"
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.1109/titb.2008.917893",
+    "title": "A national human neuroimaging collaboratory enabled by the Biomedical Informatics Research Network (BIRN).",
+    "citation": "Keator DB, Grethe JS, Marcus D, Ozyurt B, Gadde S, Murphy S, et al. A National Human Neuroimaging Collaboratory Enabled by the Biomedical Informatics Research Network (BIRN). IEEE Transactions on Information Technology in Biomedicine. 2008 Mar;12(2):162-172. doi:10.1109/titb.2008.917893. PubMed PMID: 18348946; PubMed Central PMCID: PMC2763494.",
+    "pmid": "18348946",
+    "pmcid": "PMC2763494"
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.1109/titb.2007.908466",
+    "title": "Large-scale biomedical image analysis in grid environments.",
+    "citation": "Kumar VS, Rutt B, Kurc T, Catalyurek UV, Pan TC, Chow S, et al. Large-Scale Biomedical Image Analysis in Grid Environments. IEEE Transactions on Information Technology in Biomedicine. 2008 Mar;12(2):154-161. doi:10.1109/titb.2007.908466. PubMed PMID: 18348945; PubMed Central PMCID: PMC3294419.",
+    "pmid": "18348945",
+    "pmcid": "PMC3294419"
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-008-9035-9",
+    "title": "Issues in the design of a pilot concept-based query interface for the neuroinformatics information framework.",
+    "citation": "Marenco L, Li Y, Martone ME, Sternberg PW, Shepherd GM, Miller PL. Issues in the Design of a Pilot Concept-Based Query Interface for the Neuroinformatics Information Framework. Neuroinformatics. 2008 Sep;6(3):229-239. doi:10.1007/s12021-008-9035-9. PubMed PMID: 18953674; PubMed Central PMCID: PMC2664632.",
+    "pmid": "18953674",
+    "pmcid": "PMC2664632"
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.1007/s12021-008-9025-y",
+    "title": "The NIF LinkOut broker: a web resource to facilitate federated data integration using NCBI identifiers.",
+    "citation": "Marenco L, Ascoli GA, Martone ME, Shepherd GM, Miller PL. The NIF LinkOut Broker: A Web Resource to Facilitate Federated Data Integration using NCBI Identifiers. Neuroinformatics. 2008 Sep;6(3):219-227. doi:10.1007/s12021-008-9025-y. PubMed PMID: 18975149; PubMed Central PMCID: PMC2704600.",
+    "pmid": "18975149",
+    "pmcid": "PMC2704600"
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": null,
+    "title": "Data federation in the Biomedical Informatics Research Network: tools for semantic annotation and query of distributed multiscale brain data.",
+    "citation": "Mark E. Semantic architecture for data integration and discovery within the biomedical informatics research network. Frontiers in Neuroinformatics. 2008;2. doi:10.3389/conf.neuro.11.2008.01.115."
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.1016/j.jsb.2007.10.003",
+    "title": "The cell centered database project: an update on building community resources for managing and sharing 3D imaging data.",
+    "citation": "Martone ME, Tran J, Wong WW, Sargis J, Fong L, Larson S, et al. The Cell Centered Database project: An update on building community resources for managing and sharing 3D imaging data. Journal of Structural Biology. 2008 Mar;161(3):220-231. doi:10.1016/j.jsb.2007.10.003. PubMed PMID: 18054501; PubMed Central PMCID: PMC2367257.",
+    "pmid": "18054501",
+    "pmcid": "PMC2367257"
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.3389/conf.neuro.11.2008.01.128",
+    "title": "Spatial registration, visualization and annotation of mouse brain images at different scales",
+    "citation": "Maryann M. Spatial registration, visualization and annotation of mouse brain images at different scales. Frontiers in Neuroinformatics. 2008;2. doi:10.3389/conf.neuro.11.2008.01.128."
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.3389/conf.neuro.11.2008.01.134",
+    "title": "A spatial framework for multi-scale computational neuroanatomy",
+    "citation": "Maryann M. A spatial framework for multi-scale computational neuroanatomy. Frontiers in Neuroinformatics. 2008;2. doi:10.3389/conf.neuro.11.2008.01.134."
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.1165/rcmb.2007-0139oc",
+    "title": "MARCKS regulation of mucin secretion by airway epithelium in vitro: interaction with chaperones.",
+    "citation": "Park J, Fang S, Crews AL, Lin KW, Adler KB. MARCKS Regulation of Mucin Secretion by Airway Epithelium <i>in Vitro</i>. American Journal of Respiratory Cell and Molecular Biology. 2008 Jul;39(1):68-76. doi:10.1165/rcmb.2007-0139oc. PubMed PMID: 18314541; PubMed Central PMCID: PMC2438449.",
+    "pmid": "18314541",
+    "pmcid": "PMC2438449"
+  },
+  {
+    "year": 2008,
+    "type": "journal-article",
+    "doi": "10.1016/j.jsb.2007.09.002",
+    "title": "The combination of chemical fixation procedures with high pressure freezing and freeze substitution preserves highly labile tissue ultrastructure for electron tomography applications.",
+    "citation": "Sosinsky GE, Crum J, Jones YZ, Lanman J, Smarr B, Terada M, et al. The combination of chemical fixation procedures with high pressure freezing and freeze substitution preserves highly labile tissue ultrastructure for electron tomography applications. Journal of Structural Biology. 2008 Mar;161(3):359-371. doi:10.1016/j.jsb.2007.09.002. PubMed PMID: 17962040; PubMed Central PMCID: PMC2459253.",
+    "pmid": "17962040",
+    "pmcid": "PMC2459253"
+  }
+]
